@@ -1,34 +1,29 @@
 name: Update Greenville EPG
 
 on:
-  schedule:
-    - cron: "17 */6 * * *"
   workflow_dispatch:
+  schedule:
+    - cron: '17 */6 * * *'
 
 permissions:
   contents: write
 
 jobs:
-  update:
+  update-epg:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Generate EPG
         run: python3 update_epg.py
 
-      - name: Commit updated EPG
+      - name: Commit EPG files
+        shell: bash
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add epg.xml epg.xml.gz
-
-          if git diff --cached --quiet; then
-            echo "No EPG changes"
-          else
-            git commit -m "Update Greenville EPG"
-            git push
-          fi
+          git diff --cached --quiet || git commit -m "Update EPG"
+          git push
