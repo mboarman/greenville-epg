@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="Greenville SC EPG" source-info-name="EPGShare US_LOCALS1">
-  <channel id="WLOS-DT.us_locals1">
-    <icon src="http://dtil.tmsimg.com/assets/s28708_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s28708_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">WLOS-DT</display-name>
-  </channel>
   <channel id="WHNS-DT.us_locals1">
     <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">WHNS-DT</display-name>
+  </channel>
+  <channel id="WLOS-DT.us_locals1">
+    <icon src="http://dtil.tmsimg.com/assets/s28708_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s28708_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">WLOS-DT</display-name>
   </channel>
   <channel id="WYFF-DT3.us_locals1">
     <icon src="http://dtil.tmsimg.com/assets/s10098_ll_h15_ac.png?w=360&amp;h=270" />
@@ -18,630 +18,6 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">WYFF-DT3</display-name>
   </channel>
-  <programme channel="WLOS-DT.us_locals1" start="20261013045200 +0000" stop="20261013050600 +0000">
-    <title lang="en">Nightline</title>
-    <desc lang="en">In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.</desc>
-    <credits>
-      <actor>Juju Chang</actor>
-      <actor>Byron Pitts</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">News</category>
-    <category lang="en">Interview</category>
-    <icon src="http://dtil.tmsimg.com/assets/p184465_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E209</episode-num>
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WLOS-DT.us_locals1" start="20261013050600 +0000" stop="20261013053600 +0000">
-    <title lang="en">Injured in an Auto Accident? Call Big Auto</title>
-    <desc lang="en">After an accident, discover your options, avoid costly mistakes and learn how to connect with an attorney to review your case.</desc>
-    <category lang="en">Consumer</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33912655_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />
-  </programme>
-  <programme channel="WLOS-DT.us_locals1" start="20261013053600 +0000" stop="20261013060600 +0000">
-    <title lang="en">Extra</title>
-    <desc lang="en">Inside the entertainment newsgathering process, as reporters coast-to-coast break headlines, advance the stories of the day and sit down with celebrities.</desc>
-    <credits>
-      <actor>Derek Hough</actor>
-      <actor>Mona Kosar Abdi</actor>
-      <actor>Terri Seymour</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Newsmagazine</category>
-    <category lang="en">Entertainment</category>
-    <icon src="http://dtil.tmsimg.com/assets/p184109_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S33 E37</episode-num>
-    <previously-shown />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="WLOS-DT.us_locals1" start="20261013060600 +0000" stop="20261013063600 +0000">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-    <category lang="en">Consumer</category>
-    <category lang="en">Shopping</category>
-    <category lang="en">Variety</category>
-    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
-    <previously-shown />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating>
-    <rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>G</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-  </programme>
-  <programme channel="WLOS-DT.us_locals1" start="20261013063600 +0000" stop="20261013080000 +0000">
-    <title lang="en">ABC World News Now</title>
-    <desc lang="en">ABC's "World News Now" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.</desc>
-    <credits>
-      <actor>Sophie Flay</actor>
-      <actor>Hanna Battah</actor>
-    </credits>
-    <date>1992</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p184051_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WLOS-DT.us_locals1" start="20261013080000 +0000" stop="20261013083000 +0000">
-    <title lang="en">Good Morning America First Look</title>
-    <desc lang="en">ABC's "Good Morning America First Look" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.</desc>
-    <credits>
-      <actor>Sophie Flay</actor>
-      <actor>Hanna Battah</actor>
-    </credits>
-    <date>2024</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p28311369_b_h8_ac.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WLOS-DT.us_locals1" start="20261013083000 +0000" stop="20261013090000 +0000">
-    <title lang="en">Live: News 13 at 4:30am</title>
-    <desc lang="en">Early morning news.</desc>
-    <date>2011</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8537499_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WLOS-DT.us_locals1" start="20261013090000 +0000" stop="20261013093000 +0000">
-    <title lang="en">Live: News 13 Early Edition 5AM</title>
-    <desc lang="en">Morning news coverage.</desc>
-    <date>2006</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p825435_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WLOS-DT.us_locals1" start="20261013093000 +0000" stop="20261013100000 +0000">
-    <title lang="en">Live: News 13 Early Edition 5:30AM</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>2006</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p825434_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WLOS-DT.us_locals1" start="20261013100000 +0000" stop="20261013110000 +0000">
-    <title lang="en">Live: News 13 This Morning</title>
-    <desc lang="en">News coverage to start the day.</desc>
-    <date>1999</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p825481_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WLOS-DT.us_locals1" start="20261013110000 +0000" stop="20261013130000 +0000">
-    <title lang="en">Good Morning America</title>
-    <desc lang="en">Actors Ethan Hawke, Betty Gilpin and Tommy Lee Jones; actor Chris Perfetti; sports analyst Terry Bradshaw; GMA Game Day: Countdown to the Superbowl -- Denver Broncos; Deals &amp; Steals with Tory Johnson.</desc>
-    <credits>
-      <actor>George Stephanopoulos</actor>
-      <actor>Robin Roberts</actor>
-      <actor>Michael Strahan</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">News</category>
-    <category lang="en">Variety</category>
-    <category lang="en">Public affairs</category>
-    <icon src="http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E325</episode-num>
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WLOS-DT.us_locals1" start="20261013130000 +0000" stop="20261013133000 +0000">
-    <title lang="en">25 Words or Less</title>
-    <sub-title lang="en">Can They Keep This Game Clean?</sub-title>
-    <desc lang="en">A not-so-glamorous word gives the team plenty to work with.</desc>
-    <credits>
-      <actor>Meredith Vieira</actor>
-      <actor>Melissa Peterman</actor>
-      <actor>Carson Kressley</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Game show</category>
-    <icon src="http://dtil.tmsimg.com/assets/p15722953_b_h8_am.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S8 E26</episode-num>
-    <premiere lang="en" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="WLOS-DT.us_locals1" start="20261013133000 +0000" stop="20261013140000 +0000">
-    <title lang="en">25 Words or Less</title>
-    <sub-title lang="en">Can They Find Their Way to the Answer?</sub-title>
-    <desc lang="en">The clues take this team all over the map as they race to make the right connection.</desc>
-    <credits>
-      <actor>Meredith Vieira</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Game show</category>
-    <icon src="http://dtil.tmsimg.com/assets/p15722953_b_h8_am.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S8 E6</episode-num>
-    <previously-shown />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="WLOS-DT.us_locals1" start="20261013140000 +0000" stop="20261013143000 +0000">
-    <title lang="en">Family Feud</title>
-    <desc lang="en">Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
-    <credits>
-      <actor>Steve Harvey</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Game show</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8314079_b_h8_ah.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S28 E24</episode-num>
-    <premiere lang="en" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme channel="WLOS-DT.us_locals1" start="20261013143000 +0000" stop="20261013150000 +0000">
-    <title lang="en">Jeopardy!</title>
-    <desc lang="en">The Emmy-winning quiz show features a unique answer-and-question format.</desc>
-    <credits>
-      <actor>Ken Jennings</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Game show</category>
-    <icon src="http://dtil.tmsimg.com/assets/p184056_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S42 E22</episode-num>
-    <previously-shown />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="WLOS-DT.us_locals1" start="20261013150000 +0000" stop="20261013160000 +0000">
-    <title lang="en">The View</title>
-    <desc lang="en">Actress Sarah Chalke; author Patricia "Ms. Pat" Williams-Lee.</desc>
-    <credits>
-      <actor>Whoopi Goldberg</actor>
-      <actor>Joy Behar</actor>
-      <actor>Sunny Hostin</actor>
-      <director>Sarah de la O</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <icon src="http://dtil.tmsimg.com/assets/p34020938_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S30 E26</episode-num>
-    <premiere lang="en" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme>
-  <programme channel="WLOS-DT.us_locals1" start="20261013160000 +0000" stop="20261013163000 +0000">
-    <title lang="en">Live: News 13 at Noon</title>
-    <desc lang="en">Local, national and international news.</desc>
-    <date>1999</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p825508_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WLOS-DT.us_locals1" start="20261013163000 +0000" stop="20261013170000 +0000">
-    <title lang="en">Live: News 13 at 12:30</title>
-    <desc lang="en">Local and regional news coverage.</desc>
-    <date>2007</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p825495_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WLOS-DT.us_locals1" start="20261013170000 +0000" stop="20261013180000 +0000">
-    <title lang="en">GMA3</title>
-    <desc lang="en">Actress Este Haim; actors Ethan Hawke, Betty Gilpin and Tommy Lee Jones; sports analyst Terry Bradshaw; GMA Game Day: Countdown to the Superbowl -- Denver Broncos.</desc>
-    <credits>
-      <actor>Este Haim</actor>
-      <actor>Ethan Hawke</actor>
-      <actor>Betty Gilpin</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">News</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Health</category>
-    <icon src="http://dtil.tmsimg.com/assets/p30687311_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S7 E17</episode-num>
-    <premiere lang="en" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="WLOS-DT.us_locals1" start="20261013180000 +0000" stop="20261013190000 +0000">
-    <title lang="en">General Hospital</title>
-    <desc lang="en">Carly surprises Valentin; Drew lays out his plan; Dante encourages Lulu; Sonny targets a new rival; Elizabeth wants answers.</desc>
-    <credits>
-      <actor>Maurice Benard</actor>
-      <actor>Steve Burton</actor>
-      <actor>Michael Easton</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Soap</category>
-    <category lang="en">Medical</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Romance</category>
-    <icon src="http://dtil.tmsimg.com/assets/p183893_b_h10_ao.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S64 E26</episode-num>
-    <premiere lang="en" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="WLOS-DT.us_locals1" start="20261013190000 +0000" stop="20261013193000 +0000">
-    <title lang="en">The Drew Barrymore Show</title>
-    <sub-title lang="en">Eitan Bernath; Valerie Bertinelli</sub-title>
-    <desc lang="en">Eitan Bernath and Valerie Bertinelli make a viral sorbet; a Drew Gooder story about a rooster mystery with a happy ending.</desc>
-    <credits>
-      <actor>Drew Barrymore</actor>
-      <actor>Eitan Bernath</actor>
-      <actor>Valerie Bertinelli</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Entertainment</category>
-    <icon src="http://dtil.tmsimg.com/assets/p18629596_b_h8_ae.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S7 E43</episode-num>
-    <premiere lang="en" />
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="WLOS-DT.us_locals1" start="20261013193000 +0000" stop="20261013200000 +0000">
-    <title lang="en">The Drew Barrymore Show</title>
-    <sub-title lang="en">LL Cool J; Scott Caan</sub-title>
-    <desc lang="en">Actors LL Cool J and Scott Caan ("NCIS: New York").</desc>
-    <credits>
-      <actor>Drew Barrymore</actor>
-      <actor>LL Cool J</actor>
-      <actor>Scott Caan</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Entertainment</category>
-    <icon src="http://dtil.tmsimg.com/assets/p18629596_b_h8_ae.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S7 E44</episode-num>
-    <premiere lang="en" />
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="WLOS-DT.us_locals1" start="20261013200000 +0000" stop="20261013203000 +0000">
-    <title lang="en">Extra</title>
-    <desc lang="en">Inside the entertainment newsgathering process, as reporters coast-to-coast break headlines, advance the stories of the day and sit down with celebrities.</desc>
-    <credits>
-      <actor>Derek Hough</actor>
-      <actor>Mona Kosar Abdi</actor>
-      <actor>Terri Seymour</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Newsmagazine</category>
-    <category lang="en">Entertainment</category>
-    <icon src="http://dtil.tmsimg.com/assets/p184109_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S33 E38</episode-num>
-    <premiere lang="en" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="WLOS-DT.us_locals1" start="20261013203000 +0000" stop="20261013210000 +0000">
-    <title lang="en">Family Feud</title>
-    <desc lang="en">Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
-    <credits>
-      <actor>Steve Harvey</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Game show</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8314079_b_h8_ah.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S28 E23</episode-num>
-    <premiere lang="en" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme channel="WLOS-DT.us_locals1" start="20261013210000 +0000" stop="20261013213000 +0000">
-    <title lang="en">Live: First News at 5:00</title>
-    <desc lang="en">Local and regional news coverage.</desc>
-    <date>1999</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p686684_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WLOS-DT.us_locals1" start="20261013213000 +0000" stop="20261013220000 +0000">
-    <title lang="en">Live: News 13 at 5:30</title>
-    <desc lang="en">Local and regional news.</desc>
-    <date>1999</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p825497_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WLOS-DT.us_locals1" start="20261013220000 +0000" stop="20261013223000 +0000">
-    <title lang="en">Live: News 13 at 6:00</title>
-    <desc lang="en">Local and regional news coverage.</desc>
-    <date>1999</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p825502_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WLOS-DT.us_locals1" start="20261013223000 +0000" stop="20261013230000 +0000">
-    <title lang="en">ABC World News Tonight With David Muir</title>
-    <desc lang="en">Delivering the news that matters most.</desc>
-    <credits>
-      <actor>David Muir</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E285</episode-num>
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WLOS-DT.us_locals1" start="20261013230000 +0000" stop="20261013233000 +0000">
-    <title lang="en">Wheel of Fortune</title>
-    <sub-title lang="en">NBA Week</sub-title>
-    <desc lang="en">In a classic game-show version of "Hangman," contestants solve word puzzles for cash and prizes.</desc>
-    <credits>
-      <actor>Ryan Seacrest</actor>
-      <actor>Vanna White</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Game show</category>
-    <icon src="http://dtil.tmsimg.com/assets/p184057_b_h8_ai.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S44 E22</episode-num>
-    <premiere lang="en" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="WLOS-DT.us_locals1" start="20261013233000 +0000" stop="20261014000000 +0000">
-    <title lang="en">Jeopardy!</title>
-    <desc lang="en">The Emmy-winning quiz show features a unique answer-and-question format.</desc>
-    <credits>
-      <actor>Ken Jennings</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Game show</category>
-    <icon src="http://dtil.tmsimg.com/assets/p184056_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S43 E22</episode-num>
-    <premiere lang="en" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="WLOS-DT.us_locals1" start="20261014000000 +0000" stop="20261014020000 +0000">
-    <title lang="en">Live: Dancing With the Stars</title>
-    <sub-title lang="en">Super Bowl Night</sub-title>
-    <desc lang="en">The remaining 11 couples perform songs made famous by some of the most iconic Super Bowl performances throughout the years; sportscaster Joe Buck joins as a guest judge.</desc>
-    <credits>
-      <actor>Julianne Hough</actor>
-      <actor>Alfonso Ribeiro</actor>
-      <actor>Bruno Tonioli</actor>
-      <director>Phil Heyes</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Dance</category>
-    <category lang="en">Competition Reality</category>
-    <icon src="http://dtil.tmsimg.com/assets/p187511_b_h8_ax.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S35 E6</episode-num>
-    <premiere lang="en" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="WLOS-DT.us_locals1" start="20261014020000 +0000" stop="20261014030000 +0000">
-    <title lang="en">R.J. Decker</title>
-    <sub-title lang="en">Better Luck Tomorrow</sub-title>
-    <desc lang="en">R.J. and his dad must discover who has been gaslighting the caretaker at a senior living community and unwind the murderous scheme that has R.J.'s client convinced he's living the same day in a loop.</desc>
-    <credits>
-      <actor>Scott Speedman</actor>
-      <actor>Jaina Lee Ortiz</actor>
-      <actor>Bevin Bru</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32192609_b_h8_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <premiere lang="en" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="WLOS-DT.us_locals1" start="20261014030000 +0000" stop="20261014033500 +0000">
-    <title lang="en">Live: News 13 Tonight</title>
-    <desc lang="en">Evening news.</desc>
-    <date>1999</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p825485_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WLOS-DT.us_locals1" start="20261014033500 +0000" stop="20261014043700 +0000">
-    <title lang="en">Jimmy Kimmel Live!</title>
-    <sub-title lang="en">Curtis "50 Cent" Jackson; Kate Berlant; Adryon de León</sub-title>
-    <desc lang="en">Actor Curtis "50 Cent" Jackson; comic Kate Berlant; Adryon de León sits in with The Cletones.</desc>
-    <credits>
-      <actor>Jimmy Kimmel</actor>
-      <actor>Curtis "50 Cent" Jackson</actor>
-      <actor>Kate Berlant</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Comedy</category>
-    <icon src="http://dtil.tmsimg.com/assets/p31278894_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S25 E21</episode-num>
-    <premiere lang="en" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-  </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261014043700 +0000" stop="20261014050600 +0000">
     <title lang="en">Nightline</title>
     <desc lang="en">In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.</desc>
@@ -2708,136 +2084,315 @@
     <episode-num system="onscreen">E213</episode-num>
     <premiere lang="en" />
   </programme>
-  <programme channel="WHNS-DT.us_locals1" start="20261013050000 +0000" stop="20261013053000 +0000">
-    <title lang="en">Aging Untold</title>
-    <desc lang="en">Exploring the challenges and triumphs of aging, and celebrating the wisdom, strength and beauty that come with life's later stages.</desc>
-    <credits>
-      <actor>Katherine Ambrose</actor>
-      <actor>Sam Cradduck</actor>
-      <actor>Amy O'Rourke</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Community</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32134555_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E91</episode-num>
-    <premiere lang="en" />
+  <programme channel="WLOS-DT.us_locals1" start="20261017050600 +0000" stop="20261017053600 +0000">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <previously-shown />
     <rating system="USA Parental Rating">
-      <value>TVPG</value>
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
     </rating>
     <rating system="Canadian Parental Rating">
-      <value>PG</value>
+      <value>G</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
     </rating>
   </programme>
-  <programme channel="WHNS-DT.us_locals1" start="20261013053000 +0000" stop="20261013060000 +0000">
-    <title lang="en">The Good Side</title>
-    <desc lang="en">Highlighting inspiring people who are making a difference across America.</desc>
+  <programme channel="WLOS-DT.us_locals1" start="20261017053600 +0000" stop="20261017060600 +0000">
+    <title lang="en">Extra</title>
+    <desc lang="en">Inside the entertainment newsgathering process, as reporters coast-to-coast break headlines, advance the stories of the day and sit down with celebrities.</desc>
     <credits>
-      <actor>Debra Alfarone</actor>
-      <actor>Graham Ulkins</actor>
+      <actor>Derek Hough</actor>
+      <actor>Mona Kosar Abdi</actor>
+      <actor>Terri Seymour</actor>
     </credits>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Newsmagazine</category>
-    <icon src="http://dtil.tmsimg.com/assets/p26187800_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E21</episode-num>
-    <premiere lang="en" />
+    <category lang="en">Entertainment</category>
+    <icon src="http://dtil.tmsimg.com/assets/p184109_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S33 E41</episode-num>
+    <previously-shown />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating>
     <rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="WHNS-DT.us_locals1" start="20261013060000 +0000" stop="20261013063000 +0000">
-    <title lang="en">The Neighborhood</title>
-    <sub-title lang="en">Welcome to the Ex-Files</sub-title>
-    <desc lang="en">Calvin is thrilled when he unexpectedly crosses paths with NFL legend Jerome "The Bus" Bettis; he discovers the hall of fame football player shares a history with Tina; Dave deals with the fallout of a romantic revelation.</desc>
-    <credits>
-      <actor>Cedric the Entertainer</actor>
-      <actor>Max Greenfield</actor>
-      <actor>Beth Behrs</actor>
-      <director>Leonard R Garner</director>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <icon src="http://dtil.tmsimg.com/assets/p15528404_b_h8_av.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S4 E7</episode-num>
-    <previously-shown />
     <rating system="Australian Classification Board">
       <value>PG</value>
     </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating>
   </programme>
-  <programme channel="WHNS-DT.us_locals1" start="20261013063000 +0000" stop="20261013070000 +0000">
-    <title lang="en">The Neighborhood</title>
-    <sub-title lang="en">Welcome to the Stakeout</sub-title>
-    <desc lang="en">When there's a break-in at Calvin's business, he teams up with Dave for a stakeout to catch the culprit in the act; Gemma is uncharacteristically reluctant to share her new hobby with Tina.</desc>
-    <credits>
-      <actor>Cedric the Entertainer</actor>
-      <actor>Max Greenfield</actor>
-      <actor>Beth Behrs</actor>
-      <director>Morenike Joela Evans</director>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <icon src="http://dtil.tmsimg.com/assets/p15528404_b_h8_av.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S4 E13</episode-num>
+  <programme channel="WLOS-DT.us_locals1" start="20261017060600 +0000" stop="20261017063600 +0000">
+    <title lang="en">Bathroom Makeover</title>
+    <desc lang="en">Transform your bath affordably in just one day!</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Health</category>
+    <category lang="en">House/garden</category>
+    <category lang="en">Self improvement</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30220270_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating>
   </programme>
-  <programme channel="WHNS-DT.us_locals1" start="20261013070000 +0000" stop="20261013080000 +0000">
-    <title lang="en">The Ten O'Clock News</title>
-    <desc lang="en">Local and regional news coverage.</desc>
+  <programme channel="WLOS-DT.us_locals1" start="20261017063600 +0000" stop="20261017070500 +0000">
+    <title lang="en">Secret to More Energy, Better Focus &amp; Restful Sleep</title>
+    <desc lang="en">MyMagnesiumTM ProClinical delivers 350 mg of highly absorbable magnesium plus clinically studied Shoden® Ashwagandha, vitamin D, Zinc, Boron, and antioxidant-rich organic blueberries—designed to support calm focus, steady energy, and deeper sleep.</desc>
+    <category lang="en">Consumer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32937561_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WLOS-DT.us_locals1" start="20261017070500 +0000" stop="20261017090000 +0000">
+    <title lang="en">Quarantine</title>
+    <desc lang="en">Reporter Angela (Jennifer Carpenter) and her cameraman Scott (Steve Harris) are doing a story on night-shift firefighters for a reality-TV program. A late-night distress call takes them to a Los Angeles apartment building, where the police are investigating a report of horrific screams. The TV team and emergency workers find an old woman, who suddenly attacks with teeth bared. What's more, Angela and company find that the building has been sealed by CDC workers. Then the attacks really begin.</desc>
+    <credits>
+      <actor>Jennifer Carpenter</actor>
+      <actor>Steve Harris</actor>
+      <actor>Jay Hernandez</actor>
+      <director>John Erick Dowdle</director>
+    </credits>
     <date>2008</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p692647_b_h10_aa.jpg?w=960&amp;h=540" />
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://dtil.tmsimg.com/assets/p175499_v_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating>
+    <rating system="British Board of Film Classification">
+      <value>18</value>
+    </rating>
+    <rating system="Manitoba Film Classification Board">
+      <value>18A</value>
+    </rating>
+    <rating system="Alberta's Film Classification Board">
+      <value>18A</value>
+    </rating>
+    <rating system="B.C. Film Classification Office">
+      <value>14A</value>
+    </rating>
+    <rating system="Saskatchewan Film and Video Classification Board">
+      <value>14A</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+    <rating system="Ontario Film Authority">
+      <value>18A</value>
+    </rating>
+    <rating system="Maritime Film Classification Board">
+      <value>18</value>
+    </rating>
+    <rating system="UK Content Provider">
+      <value>18</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+    <rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K18</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Ministero della Cultura">
+      <value>VM14</value>
+    </rating>
+    <rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 16</value>
+    </rating>
+    <rating system="映倫">
+      <value>PG12</value>
+    </rating>
+    <rating system="Medierådet">
+      <value>15</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>18</value>
+    </rating>
+    <rating system="영상물등급위원회">
+      <value>18+</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+    <rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+    <rating system="Central Board of Film Certification">
+      <value>A</value>
+    </rating>
+    <star-rating system="TMS">
+      <value>5.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="WLOS-DT.us_locals1" start="20261017090000 +0000" stop="20261017093000 +0000">
+    <title lang="en">Life in the Carolinas</title>
+    <desc lang="en">Host Carl White shares stories about the people and places of the Carolinas.</desc>
+    <date>2009</date>
+    <category lang="en">Travel</category>
+    <icon src="http://dtil.tmsimg.com/assets/p7857828_b_h10_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="WHNS-DT.us_locals1" start="20261013080000 +0000" stop="20261013083000 +0000">
-    <title lang="en">AgDay</title>
-    <desc lang="en">Since 1982, "AgDay" has been providing farmers and ranchers news, weather and market information every weekday morning. The half-hour program covers many aspects of farming to give producers the information they need to make better decisions about their operations. The show's not just about agriculture, though, as it also features regular segments that deal with topics such as food safety, health news, and the people and places of rural America. Anchor Clinton Griffiths leads the show's on-air team.</desc>
-    <credits>
-      <actor>Clinton Griffiths</actor>
-      <actor>Al Pell</actor>
-    </credits>
-    <category lang="en">News</category>
-    <category lang="en">Agriculture</category>
-    <icon src="http://dtil.tmsimg.com/assets/p325642_b_h10_ab.jpg?w=960&amp;h=540" />
+  <programme channel="WLOS-DT.us_locals1" start="20261017093000 +0000" stop="20261017100000 +0000">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
     <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme>
+  <programme channel="WLOS-DT.us_locals1" start="20261017100000 +0000" stop="20261017110000 +0000">
+    <title lang="en">Live: News 13 Saturday at 6am</title>
+    <desc lang="en">Morning news coverage.</desc>
+    <date>2011</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p8537505_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WLOS-DT.us_locals1" start="20261017110000 +0000" stop="20261017120000 +0000">
+    <title lang="en">Live: News 13 Saturday at 7am</title>
+    <desc lang="en">Saturday morning news.</desc>
+    <date>2011</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p8537510_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WLOS-DT.us_locals1" start="20261017120000 +0000" stop="20261017130000 +0000">
+    <title lang="en">Good Morning America</title>
+    <desc lang="en">Early morning news and entertainment program that covers important issues with key figures from around the world and a wide spectrum of topics, including medicine, finance, consumer issues, computer technology, education and gardening.</desc>
+    <credits>
+      <actor>George Stephanopoulos</actor>
+      <actor>Robin Roberts</actor>
+      <actor>Michael Strahan</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">News</category>
+    <category lang="en">Variety</category>
+    <category lang="en">Public affairs</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E329</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WLOS-DT.us_locals1" start="20261017130000 +0000" stop="20261017140000 +0000">
+    <title lang="en">Good Morning America</title>
+    <desc lang="en">October Book Club pick author Ríoghnach Robinson; dating expert Bela Gandhi; Making Strides of Chicago walk; Deals &amp; Steals with Tory Johnson.</desc>
+    <credits>
+      <actor>Whit Johnson</actor>
+      <actor>Rachel Scott</actor>
+      <actor>Bela Gandhi</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">News</category>
+    <category lang="en">Variety</category>
+    <category lang="en">Public affairs</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E330</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WLOS-DT.us_locals1" start="20261017140000 +0000" stop="20261017143000 +0000">
+    <title lang="en">The Asset Preservation Hour</title>
+    <desc lang="en">Watch retirement planning professional Stewart Willis as he educates and informs those in or near retirement.</desc>
+    <category lang="en">Consumer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p21942441_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WLOS-DT.us_locals1" start="20261017143000 +0000" stop="20261017150000 +0000">
+    <title lang="en">Jeff Corwin: Southern Wild</title>
+    <sub-title lang="en">From Wings to Waves</sub-title>
+    <desc lang="en">Jeff returns to the May Wildlife Rehabilitation Center to join the Appalachian Wildlife Refuge team for songbird intake and assist students with an osprey health assessment and release, visiting Karen Beasley Center researchers during sea turtle nesting season.</desc>
+    <credits>
+      <actor>Jeff Corwin</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Nature</category>
+    <category lang="en">Animals</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33852312_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WLOS-DT.us_locals1" start="20261017150000 +0000" stop="20261017153000 +0000">
+    <title lang="en">The Champion's Edge with Bonnie Bernstein</title>
+    <sub-title lang="en">Trailblazers</sub-title>
+    <desc lang="en">AUSL Commissioner Kim Ng shares how resilience honed through softball helped her break through years of barriers to land the GM post with the Miami Marlins; CIAA Commissioner Jacqie McWilliams reflects on sports as a safe space where she built the confidence to rise through the ranks of college athletics.</desc>
+    <credits>
+      <actor>Kim Ng</actor>
+      <actor>Jacqie McWilliams</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Interview</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32928958_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WLOS-DT.us_locals1" start="20261017153000 +0000" stop="20261017160000 +0000">
+    <title lang="en">Hearts of Heroes</title>
+    <sub-title lang="en">Higher Calling</sub-title>
+    <desc lang="en">Two passengers dangle 900 feet above the ground after their hot air balloon becomes tangled in a communications tower; police officers race to rescue a family trapped on the second floor of a burning home.</desc>
+    <credits>
+      <actor>Brooke Shields</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Nature</category>
+    <category lang="en">Science</category>
+    <icon src="http://dtil.tmsimg.com/assets/p16722748_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S8 E10</episode-num>
+    <premiere lang="en" />
     <rating system="USA Parental Rating">
       <value>TVG</value>
     </rating>
@@ -2847,320 +2402,109 @@
     <rating system="Régie du cinéma">
       <value>G</value>
     </rating>
-  </programme>
-  <programme channel="WHNS-DT.us_locals1" start="20261013083000 +0000" stop="20261013090000 +0000">
-    <title lang="en">The Morning News at 4:30</title>
-    <desc lang="en">News coverage to start the day.</desc>
-    <date>2017</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p14483177_b_h10_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WHNS-DT.us_locals1" start="20261013090000 +0000" stop="20261013100000 +0000">
-    <title lang="en">The Morning News at 5</title>
-    <desc lang="en">News coverage to start the day.</desc>
-    <date>2006</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p808402_b_h10_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WHNS-DT.us_locals1" start="20261013100000 +0000" stop="20261013110000 +0000">
-    <title lang="en">The Morning News at 6</title>
-    <desc lang="en">News coverage to start the day.</desc>
-    <date>2006</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p808403_b_h10_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WHNS-DT.us_locals1" start="20261013110000 +0000" stop="20261013120000 +0000">
-    <title lang="en">The Morning News at 7</title>
-    <desc lang="en">News coverage.</desc>
-    <date>2006</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p808404_b_h10_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WHNS-DT.us_locals1" start="20261013120000 +0000" stop="20261013130000 +0000">
-    <title lang="en">The Morning News at 8</title>
-    <desc lang="en">News coverage to start the day.</desc>
-    <date>2010</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8049482_b_h10_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WHNS-DT.us_locals1" start="20261013130000 +0000" stop="20261013140000 +0000">
-    <title lang="en">The Morning News at 9</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>2021</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20731746_b_h10_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WHNS-DT.us_locals1" start="20261013140000 +0000" stop="20261013150000 +0000">
-    <title lang="en">Access Carolina</title>
-    <desc lang="en">Covering all the things to do, attractions, food &amp; drink, and people that make the Upstate of South Carolina and Western North Carolina unique!</desc>
-    <date>2022</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Community</category>
-    <icon src="http://dtil.tmsimg.com/assets/p22825157_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WHNS-DT.us_locals1" start="20261013150000 +0000" stop="20261013160000 +0000">
-    <title lang="en">Clemson Dabo Swinney Press Conference</title>
-    <date>2025</date>
-    <icon src="http://dtil.tmsimg.com/assets/p30953423_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />
-  </programme>
-  <programme channel="WHNS-DT.us_locals1" start="20261013160000 +0000" stop="20261013170000 +0000">
-    <title lang="en">The Midday News at 11</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>2023</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p23662314_b_h10_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WHNS-DT.us_locals1" start="20261013170000 +0000" stop="20261013180000 +0000">
-    <title lang="en">The Midday News at 11</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>2023</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p23662314_b_h10_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WHNS-DT.us_locals1" start="20261013180000 +0000" stop="20261013183000 +0000">
-    <title lang="en">iCRIME With Elizabeth Vargas</title>
-    <desc lang="en">Crimes from across the country that have been captured by ordinary people on their smartphones; stories of victims, witnesses, law enforcement and the videographers themselves.</desc>
-    <credits>
-      <actor>Elizabeth Vargas</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dtil.tmsimg.com/assets/p22620703_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E52</episode-num>
-    <premiere lang="en" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme>
-  <programme channel="WHNS-DT.us_locals1" start="20261013183000 +0000" stop="20261013190000 +0000">
-    <title lang="en">Crime Exposé With Nancy O'Dell</title>
-    <desc lang="en">A young single mom vanishes during her lunch break. She's later found strangled in her bedroom in what looks like a botched burglary.</desc>
-    <credits>
-      <actor>Nancy O'Dell</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <icon src="http://dtil.tmsimg.com/assets/p27919637_b_h10_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E46</episode-num>
-    <previously-shown />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme>
-  <programme channel="WHNS-DT.us_locals1" start="20261013190000 +0000" stop="20261013193000 +0000">
-    <title lang="en">Aging Untold</title>
-    <desc lang="en">Exploring the challenges and triumphs of aging, and celebrating the wisdom, strength and beauty that come with life's later stages.</desc>
-    <credits>
-      <actor>Katherine Ambrose</actor>
-      <actor>Sam Cradduck</actor>
-      <actor>Amy O'Rourke</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Community</category>
-    <icon src="http://dtil.tmsimg.com/assets/p32134555_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E92</episode-num>
-    <premiere lang="en" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
+    <rating system="Australian Classification Board">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="WHNS-DT.us_locals1" start="20261013193000 +0000" stop="20261013200000 +0000">
-    <title lang="en">InvestigateTV+</title>
-    <desc lang="en">The weekday news magazine takes an in-depth look at topics from politics to personal finance, featuring watchdog reports about government corruption and failures, consumer alerts and health care issues.</desc>
-    <credits>
-      <actor>Lee Zurik</actor>
-      <actor>Tisha Powell</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Newsmagazine</category>
-    <category lang="en">Public affairs</category>
-    <icon src="http://dtil.tmsimg.com/assets/p25440878_b_h10_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S4 E22</episode-num>
+  <programme channel="WLOS-DT.us_locals1" start="20261017160000 +0000" stop="20261017190000 +0000">
+    <title lang="en">Live: College Football</title>
+    <desc lang="en">From Darrell K. Royal - Texas Memorial Stadium in Austin, Texas.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0036YGQB.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
+  </programme>
+  <programme channel="WLOS-DT.us_locals1" start="20261017190000 +0000" stop="20261017193000 +0000">
+    <title lang="en">Live: College Football Scoreboard</title>
+    <desc lang="en">All the latest news and analysis from the world of college football.</desc>
+    <date>2018</date>
+    <category lang="en">Football</category>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15663476_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WLOS-DT.us_locals1" start="20261017193000 +0000" stop="20261017223000 +0000">
+    <title lang="en">Live: College Football</title>
+    <desc lang="en">From Neyland Stadium in Knoxville, Tenn.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0036YV3V.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WLOS-DT.us_locals1" start="20261017223000 +0000" stop="20261017230000 +0000">
+    <title lang="en">Live: College Football Scoreboard</title>
+    <desc lang="en">All the latest news and analysis from the world of college football.</desc>
+    <date>2018</date>
+    <category lang="en">Football</category>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15663476_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WLOS-DT.us_locals1" start="20261017230000 +0000" stop="20261017233000 +0000">
+    <title lang="en">Live: College Football Scoreboard</title>
+    <desc lang="en">All the latest news and analysis from the world of college football.</desc>
+    <date>2018</date>
+    <category lang="en">Football</category>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15663476_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WLOS-DT.us_locals1" start="20261017233000 +0000" stop="20261018030000 +0000">
+    <title lang="en">Live: College Football</title>
+    <desc lang="en">From LaVell Edwards Stadium in Provo, Utah.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0036YCWT.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WLOS-DT.us_locals1" start="20261018030000 +0000" stop="20261018033500 +0000">
+    <title lang="en">News 13 Tonight</title>
+    <desc lang="en">Evening news.</desc>
+    <date>1999</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p825485_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WLOS-DT.us_locals1" start="20261018033500 +0000" stop="20261018040500 +0000">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
     <rating system="Régie du cinéma">
       <value>G</value>
     </rating>
     <rating system="Canadian Parental Rating">
       <value>G</value>
     </rating>
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme channel="WHNS-DT.us_locals1" start="20261013200000 +0000" stop="20261013210000 +0000">
-    <title lang="en">The Four O'Clock News</title>
-    <desc lang="en">Local and regional news coverage.</desc>
-    <date>2014</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11134899_b_h10_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WHNS-DT.us_locals1" start="20261013210000 +0000" stop="20261013220000 +0000">
-    <title lang="en">The Five O'Clock News</title>
-    <desc lang="en">Local and regional news coverage.</desc>
-    <date>2017</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p14483263_b_h10_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WHNS-DT.us_locals1" start="20261013220000 +0000" stop="20261013230000 +0000">
-    <title lang="en">The Six O'Clock News</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>2020</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p18963534_b_h10_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WHNS-DT.us_locals1" start="20261013230000 +0000" stop="20261014000000 +0000">
-    <title lang="en">The Seven O'Clock News</title>
-    <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
-    <date>2026</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p34161839_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WHNS-DT.us_locals1" start="20261014000000 +0000" stop="20261014010000 +0000">
-    <title lang="en">Best Medicine</title>
-    <sub-title lang="en">No Place Like Om</sub-title>
-    <desc lang="en">As Martin desperately tries to leave Port Wenn to meet Eden in Boston for the weekend, he must first investigate the extremely strange behavior of three patients who have all recently visited a meditation retreat; Mark is affected by the high school's graduation; Sarah's first guest in her rented spare room is none other than ex-paramour Eddie McCroy.</desc>
-    <credits>
-      <actor>Josh Charles</actor>
-      <actor>Abigail Spencer</actor>
-      <actor>Annie Potts</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Comedy drama</category>
-    <category lang="en">Medical</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33611027_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E4</episode-num>
-    <premiere lang="en" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="WHNS-DT.us_locals1" start="20261014010000 +0000" stop="20261014020000 +0000">
-    <title lang="en">Doc</title>
-    <sub-title lang="en">Great Expectations</sub-title>
-    <desc lang="en">Amy and Ben go toe to toe when their cancer patient demands the impossible; Jake discovers a senior Westside surgeon has botched an operation, and he must decide whether to speak out and risk his tenuous new position in cardiology; Sonya grapples with the weight of life-changing news.</desc>
-    <credits>
-      <actor>Molly Parker</actor>
-      <actor>Omar Metwally</actor>
-      <actor>Amirah Vann</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Medical</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33611039_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E4</episode-num>
-    <premiere lang="en" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
     </rating>
     <rating system="Australian Classification Board">
-      <value>M 15+</value>
+      <value>G</value>
     </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
     </rating>
   </programme>
-  <programme channel="WHNS-DT.us_locals1" start="20261014020000 +0000" stop="20261014030000 +0000">
-    <title lang="en">The Ten O'Clock News</title>
-    <desc lang="en">Local and regional news coverage.</desc>
-    <date>2008</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p692647_b_h10_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />
-  </programme>
-  <programme channel="WHNS-DT.us_locals1" start="20261014030000 +0000" stop="20261014033000 +0000">
-    <title lang="en">The Eleven O'Clock News</title>
-    <desc lang="en">Local, national and international news coverage.</desc>
-    <date>2012</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p9189172_b_h10_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />
-  </programme>
-  <programme channel="WHNS-DT.us_locals1" start="20261014033000 +0000" stop="20261014040000 +0000">
-    <title lang="en">Palmetto Sports Daily</title>
-    <date>2025</date>
-    <icon src="http://dtil.tmsimg.com/assets/p29357982_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />
-  </programme>
-  <programme channel="WHNS-DT.us_locals1" start="20261014040000 +0000" stop="20261014043000 +0000">
-    <title lang="en">Front Office Sports Tonight</title>
-    <desc lang="en">Host Matt Iseman goes beyond the field of play to break down the most important cultural, entertainment and business stories in the world of sports.</desc>
+  <programme channel="WLOS-DT.us_locals1" start="20261018040500 +0000" stop="20261018050500 +0000">
+    <title lang="en">Live: The National News Desk</title>
+    <desc lang="en">Local and national perspectives on the latest news.</desc>
     <credits>
-      <actor>Matt Iseman</actor>
+      <actor>Eugene Ramirez</actor>
     </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
+    <date>2021</date>
     <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33800854_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E26</episode-num>
+    <icon src="http://dtil.tmsimg.com/assets/p27888009_st_h10_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
-  </programme>
-  <programme channel="WHNS-DT.us_locals1" start="20261014043000 +0000" stop="20261014050000 +0000">
-    <title lang="en">In Depth With Graham Bensinger</title>
-    <sub-title lang="en">Henry Winkler</sub-title>
-    <desc lang="en">Actor Henry Winkler discusses the role that made him famous, but also nearly derailed his career; he reflects on remaking his career, and shares stories from friendships he's built with some of the biggest stars in Hollywood.</desc>
-    <credits>
-      <actor>Graham Bensinger</actor>
-      <actor>Henry Winkler</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Interview</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8178298_b_h8_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S17 E1</episode-num>
-    <previously-shown />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261014050000 +0000" stop="20261014053000 +0000">
     <title lang="en">Aging Untold</title>
@@ -4397,7 +3741,7 @@
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261017000000 +0000" stop="20261017033000 +0000">
     <title lang="en">Live: College Football</title>
-    <desc lang="en">From Ross-Ade Stadium in West Lafayette, Ind.</desc>
+    <desc lang="en">The Washington Huskies visit the Purdue Boilermakers. Washington lost 41-24 to No. 17 Iowa, extending their losing streak to three games. Elijah Brown threw three touchdowns. Purdue beat Minnesota 41-13, with Fame Ijeboi rushing for 195 yards.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0036Y5RB.jpg?w=960&amp;h=540" />
@@ -4444,207 +3788,132 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="WYFF-DT3.us_locals1" start="20261013043700 +0000" stop="20261013050700 +0000">
-    <title lang="en">Funny You Should Ask</title>
-    <desc lang="en">Jamie Kennedy; Sheryl Underwood; Gary Owen; Byron Allen; Caroline Rhea; Tommy Davidson.</desc>
+  <programme channel="WHNS-DT.us_locals1" start="20261017050000 +0000" stop="20261017053000 +0000">
+    <title lang="en">Aging Untold</title>
+    <desc lang="en">Exploring the challenges and triumphs of aging, and celebrating the wisdom, strength and beauty that come with life's later stages.</desc>
     <credits>
-      <actor>Jon Kelley</actor>
-      <actor>Jamie Kennedy</actor>
-      <actor>Sheryl Underwood</actor>
+      <actor>Katherine Ambrose</actor>
+      <actor>Sam Cradduck</actor>
+      <actor>Amy O'Rourke</actor>
     </credits>
     <date>2026</date>
     <category lang="en">Series</category>
-    <category lang="en">Game show</category>
-    <category lang="en">Comedy</category>
-    <icon src="http://dtil.tmsimg.com/assets/p13115825_b_h10_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S10 E8</episode-num>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32134555_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E95</episode-num>
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="WHNS-DT.us_locals1" start="20261017053000 +0000" stop="20261017060000 +0000">
+    <title lang="en">The Good Side</title>
+    <desc lang="en">Highlighting inspiring people who are making a difference across America.</desc>
+    <credits>
+      <actor>Debra Alfarone</actor>
+      <actor>Graham Ulkins</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Newsmagazine</category>
+    <icon src="http://dtil.tmsimg.com/assets/p26187800_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E25</episode-num>
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="WHNS-DT.us_locals1" start="20261017060000 +0000" stop="20261017063000 +0000">
+    <title lang="en">The Neighborhood</title>
+    <sub-title lang="en">Welcome to the Knockout</sub-title>
+    <desc lang="en">As Dave nears his 40th birthday, Calvin offers to coach his friend for an amateur boxing tournament; sparks fly when Marty meets a new woman at the gym.</desc>
+    <credits>
+      <actor>Cedric the Entertainer</actor>
+      <actor>Max Greenfield</actor>
+      <actor>Beth Behrs</actor>
+      <director>Mimi Deaton</director>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15528404_b_h8_av.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E11</episode-num>
     <previously-shown />
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
     <rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating>
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating>
   </programme>
-  <programme channel="WYFF-DT3.us_locals1" start="20261013050700 +0000" stop="20261013053700 +0000">
-    <title lang="en">Funny You Should Ask</title>
-    <desc lang="en">Billy Gardell; Sheryl Underwood; Jamie Kennedy; Byron Allen; Caroline Rhea; Brad Williams.</desc>
+  <programme channel="WHNS-DT.us_locals1" start="20261017063000 +0000" stop="20261017070000 +0000">
+    <title lang="en">The Neighborhood</title>
+    <sub-title lang="en">Welcome to the Quinceañera</sub-title>
+    <desc lang="en">Calvin and Tina offer to throw a quinceañera for a teen Calvin is mentoring at his auto shop; Dave and Gemma introduce Malcolm to a college baseball coach who has the potential to change his future.</desc>
     <credits>
-      <actor>Jon Kelley</actor>
+      <actor>Cedric the Entertainer</actor>
+      <actor>Max Greenfield</actor>
+      <actor>Beth Behrs</actor>
+      <director>Kim Wayans</director>
     </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15528404_b_h8_av.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S4 E19</episode-num>
+    <previously-shown />
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating>
+  </programme>
+  <programme channel="WHNS-DT.us_locals1" start="20261017070000 +0000" stop="20261017080000 +0000">
+    <title lang="en">The Ten O'Clock News</title>
+    <desc lang="en">Local and regional news coverage.</desc>
+    <date>2008</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p692647_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WHNS-DT.us_locals1" start="20261017080000 +0000" stop="20261017083000 +0000">
+    <title lang="en">Dirt &amp; Trails</title>
+    <desc lang="en">Hosts Eric Smart and Chris Reader take you on an off-road adventure, making the off-road and overland trucks and SUVs.</desc>
     <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Game show</category>
-    <category lang="en">Comedy</category>
-    <icon src="http://dtil.tmsimg.com/assets/p28608175_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S9 E9</episode-num>
+    <category lang="en">Motorsports</category>
+    <icon src="http://dtil.tmsimg.com/assets/p30774559_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme channel="WYFF-DT3.us_locals1" start="20261013053700 +0000" stop="20261013060700 +0000">
-    <title lang="en">Funny You Should Ask</title>
-    <desc lang="en">Guest stars include Adam Carolla, Sheryl Underwood, Bill Engvall, Byron Allen, Caroline Rhea and Brad Williams.</desc>
-    <credits>
-      <actor>Jon Kelley</actor>
-      <actor>Adam Carolla</actor>
-      <actor>Sheryl Underwood</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Game show</category>
-    <category lang="en">Comedy</category>
-    <icon src="http://dtil.tmsimg.com/assets/p28608175_b_h10_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S9 E1</episode-num>
-    <previously-shown />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme channel="WYFF-DT3.us_locals1" start="20261013060700 +0000" stop="20261013080000 +0000">
-    <title lang="en">CBS News Roundup</title>
-    <desc lang="en">The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.</desc>
-    <date>2024</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p27490843_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WYFF-DT3.us_locals1" start="20261013080000 +0000" stop="20261013083000 +0000">
-    <title lang="en">CBS News Mornings</title>
-    <desc lang="en">CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
-    <date>2024</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p27236437_b_h8_ab.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WYFF-DT3.us_locals1" start="20261013083000 +0000" stop="20261013090000 +0000">
-    <title lang="en">WYFF News 4 at 4:30am</title>
-    <desc lang="en">News coverage to start the day.</desc>
-    <date>2010</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p8040946_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WYFF-DT3.us_locals1" start="20261013090000 +0000" stop="20261013093000 +0000">
-    <title lang="en">WYFF News 4 at 5am</title>
-    <desc lang="en">News coverage to start the day.</desc>
-    <date>2002</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p986961_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WYFF-DT3.us_locals1" start="20261013093000 +0000" stop="20261013100000 +0000">
-    <title lang="en">WYFF News 4 at 5:30am</title>
-    <desc lang="en">News coverage to start the day.</desc>
-    <date>2002</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p986959_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WYFF-DT3.us_locals1" start="20261013100000 +0000" stop="20261013110000 +0000">
-    <title lang="en">WYFF News 4 at 6am</title>
-    <desc lang="en">News coverage to start the day.</desc>
-    <date>2002</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p986965_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WYFF-DT3.us_locals1" start="20261013110000 +0000" stop="20261013130000 +0000">
-    <title lang="en">CBS Mornings</title>
-    <desc lang="en">Authors Pilar Guzmán and Dr. Sharon Malone; actors Mark Harmon and Austin Stowell; singer-songwriter Ashe.</desc>
-    <credits>
-      <actor>Gayle King</actor>
-      <actor>Norah O'Donnell</actor>
-      <actor>Nate Burleson</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p20589677_b_h8_ak.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E204</episode-num>
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WYFF-DT3.us_locals1" start="20261013130000 +0000" stop="20261013133000 +0000">
-    <title lang="en">Justice With Judge Mablean</title>
-    <sub-title lang="en">Babysitting Bait and Switch &amp; Birthday Surprise Gone Wrong</sub-title>
-    <desc lang="en">A college student sues her godsister for unpaid wages as a part-time nanny; a discovery of infidelity and a broken birthday gift land two women in court.</desc>
-    <credits>
-      <actor>Mablean Ephriam</actor>
-      <director>X. Dean Lim</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Law</category>
-    <icon src="http://dtil.tmsimg.com/assets/p10938248_b_h8_ab.jpg?w=960&amp;h=540" />
-    <previously-shown />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="WYFF-DT3.us_locals1" start="20261013133000 +0000" stop="20261013140000 +0000">
-    <title lang="en">Justice With Judge Mablean</title>
-    <sub-title lang="en">Freeze Out</sub-title>
-    <desc lang="en">A woman blames a repairman when the questionable parts he uses to fix her refrigerator only make the problem worse and render it useless.</desc>
-    <credits>
-      <actor>Mablean Ephriam</actor>
-      <director>X. Dean Lim</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Law</category>
-    <icon src="http://dtil.tmsimg.com/assets/p30707982_b_h10_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="WYFF-DT3.us_locals1" start="20261013140000 +0000" stop="20261013150000 +0000">
-    <title lang="en">Let's Make a Deal</title>
-    <desc lang="en">Costumed contestants compete for cash and prizes.</desc>
-    <credits>
-      <actor>Wayne Brady</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Game show</category>
-    <icon src="http://dtil.tmsimg.com/assets/p7805542_b_h8_af.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S18 E17</episode-num>
-    <premiere lang="en" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="WYFF-DT3.us_locals1" start="20261013150000 +0000" stop="20261013160000 +0000">
-    <title lang="en">The Price Is Right</title>
-    <desc lang="en">Participants must guess the prices of different types of items, ranging from vehicles to electronic appliances, to win a prize.</desc>
-    <credits>
-      <actor>Drew Carey</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Game show</category>
-    <icon src="http://dtil.tmsimg.com/assets/p183911_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S55 E17</episode-num>
-    <premiere lang="en" />
     <rating system="USA Parental Rating">
       <value>TVG</value>
     </rating>
@@ -4655,388 +3924,256 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="WYFF-DT3.us_locals1" start="20261013160000 +0000" stop="20261013163000 +0000">
-    <title lang="en">WYFF News 4 at Noon</title>
-    <desc lang="en">Stay informed with the latest local breaking news and headlines.</desc>
-    <date>2025</date>
-    <category lang="en">Documentary</category>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p31586882_b_h10_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WYFF-DT3.us_locals1" start="20261013163000 +0000" stop="20261013173000 +0000">
-    <title lang="en">The Young and the Restless</title>
-    <desc lang="en">Victor holds Nick accountable for his actions; Nate counsels Lily; Billy and Cane find common ground; Sharon receives an unexpected guest.</desc>
+  <programme channel="WHNS-DT.us_locals1" start="20261017083000 +0000" stop="20261017090000 +0000">
+    <title lang="en">Music City Trucks</title>
+    <desc lang="en">Hosts Marc Christ and Brandon Burke mix Nashville's flavor with truck builds, including classic and late-model pickups, sport trucks and SUVs.</desc>
     <credits>
-      <actor>Peter Bergman</actor>
-      <actor>Eric Braeden</actor>
-      <actor>Christel Khalil</actor>
+      <actor>Marc Christ</actor>
+      <actor>Brandon Burke</actor>
     </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Soap</category>
-    <icon src="http://dtil.tmsimg.com/assets/p183904_b_h8_ai.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S54 E4</episode-num>
-    <premiere lang="en" />
+    <date>2021</date>
+    <category lang="en">Auto</category>
+    <category lang="en">How-to</category>
+    <icon src="http://dtil.tmsimg.com/assets/p19311934_b_h11_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
     <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-    <rating system="Film &amp; Publication Board">
-      <value>13</value>
+      <value>TVG</value>
     </rating>
     <rating system="Régie du cinéma">
       <value>G</value>
     </rating>
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
     </rating>
   </programme>
-  <programme channel="WYFF-DT3.us_locals1" start="20261013173000 +0000" stop="20261013180000 +0000">
-    <title lang="en">The Bold and the Beautiful</title>
-    <desc lang="en">Zende gives Ridge an ultimatum; Hope is concerned about her next Logan line.</desc>
+  <programme channel="WHNS-DT.us_locals1" start="20261017090000 +0000" stop="20261017093000 +0000">
+    <title lang="en">Powernation Builds</title>
+    <desc lang="en">Presenting a build that re-imagines the Nissan Frontier.</desc>
     <credits>
-      <actor>Katherine Kelly Lang</actor>
-      <actor>Jacqueline MacInnes Wood</actor>
-      <actor>Thorsten Kaye</actor>
+      <actor>Eric Smart</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Auto</category>
+    <category lang="en">Competition Reality</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p26465689_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WHNS-DT.us_locals1" start="20261017093000 +0000" stop="20261017100000 +0000">
+    <title lang="en">Blacktop Speed Shop</title>
+    <desc lang="en">Transforming vehicles with performance and styling upgrades.</desc>
+    <date>2026</date>
+    <category lang="en">Auto</category>
+    <category lang="en">How-to</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32564268_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WHNS-DT.us_locals1" start="20261017100000 +0000" stop="20261017103000 +0000">
+    <title lang="en">Dog Tales</title>
+    <desc lang="en">Los Angeles dog adoption organization; breed profile: Greyhound.</desc>
+    <credits>
+      <actor>Alex Paen</actor>
     </credits>
     <date>2026</date>
     <category lang="en">Series</category>
-    <category lang="en">Soap</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Romance</category>
-    <icon src="http://dtil.tmsimg.com/assets/p183907_b_h10_ca.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S40 E26</episode-num>
-    <premiere lang="en" />
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Animals</category>
+    <category lang="en">Pets</category>
+    <category lang="en">Educational</category>
+    <icon src="http://dtil.tmsimg.com/assets/p369178_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S24 E19</episode-num>
+    <previously-shown />
     <rating system="USA Parental Rating">
-      <value>TV14</value>
+      <value>TVG</value>
     </rating>
     <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
+      <value>G</value>
     </rating>
     <rating system="Régie du cinéma">
       <value>G</value>
     </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
+  </programme>
+  <programme channel="WHNS-DT.us_locals1" start="20261017103000 +0000" stop="20261017110000 +0000">
+    <title lang="en">Animal Rescue</title>
+    <desc lang="en">A deer stranded on an icy pond; tracking mule deer; a turtle caught in a net; helping elephants.</desc>
+    <credits>
+      <actor>Alex Paen</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Animals</category>
+    <category lang="en">Pets</category>
+    <category lang="en">Educational</category>
+    <icon src="http://dtil.tmsimg.com/assets/p331133_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S21 E4</episode-num>
+    <previously-shown />
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="WHNS-DT.us_locals1" start="20261017110000 +0000" stop="20261017113000 +0000">
+    <title lang="en">Biz Kid$</title>
+    <desc lang="en">Financial literacy and work readiness for children ages 6 to 12.</desc>
+    <credits>
+      <actor>Kaelon Christopher</actor>
+      <actor>Alexander Oki</actor>
+      <director>James McKenna</director>
+    </credits>
+    <date>2008</date>
+    <category lang="en">Children</category>
+    <category lang="en">Educational</category>
+    <icon src="http://dtil.tmsimg.com/assets/p341590_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WHNS-DT.us_locals1" start="20261017113000 +0000" stop="20261017120000 +0000">
+    <title lang="en">Think Big</title>
+    <sub-title lang="en">Jordan vs. Joseph</sub-title>
+    <desc lang="en">A mirror reflector kit makes solar panels more efficient; a robotic forklift can be operated from a remote location for driver safety; cookie dunkers; ball catapults.</desc>
+    <date>2012</date>
+    <category lang="en">Series</category>
+    <category lang="en">Educational</category>
+    <icon src="http://dtil.tmsimg.com/assets/p9389159_b_h8_ad.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E1</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WHNS-DT.us_locals1" start="20261017120000 +0000" stop="20261017123000 +0000">
+    <title lang="en">The Asset Preservation Hour</title>
+    <desc lang="en">Watch retirement planning expert Stewart Willis as he educates and informs those in or near retirement.</desc>
+    <date>2022</date>
+    <category lang="en">Consumer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p22677637_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WHNS-DT.us_locals1" start="20261017123000 +0000" stop="20261017130000 +0000">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
     </rating>
     <rating system="Australian Classification Board">
-      <value>M 15+</value>
+      <value>G</value>
+    </rating>
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
     </rating>
     <rating system="Kijkwijzer">
       <value>AL</value>
     </rating>
   </programme>
-  <programme channel="WYFF-DT3.us_locals1" start="20261013180000 +0000" stop="20261013190000 +0000">
-    <title lang="en">Beyond the Gates</title>
-    <desc lang="en">Martin waits for big news; Smitty waits in shame; Nicole does an about-face with Ted; Naomi shuts Jacob down; Samantha challenges Tyrell; Ashley steps in when Shanice is overwhelmed; Carlton's dalliance with Heather takes a sharp turn.</desc>
-    <credits>
-      <actor>Clifton Davis</actor>
-      <actor>Tamara Tunie</actor>
-      <actor>Daphnee Duplaix</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Soap</category>
-    <category lang="en">Drama</category>
-    <icon src="http://dtil.tmsimg.com/assets/p28339808_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S2 E188</episode-num>
-    <premiere lang="en" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme>
-  <programme channel="WYFF-DT3.us_locals1" start="20261013190000 +0000" stop="20261013193000 +0000">
-    <title lang="en">Mathis Court With Judge Mathis</title>
-    <sub-title lang="en">T-Balls and T-Bones</sub-title>
-    <desc lang="en">The owner of a steakhouse with topless waitstaff sues a youth baseball league assistant coach for taking sponsorship money but hiding his business name.</desc>
-    <credits>
-      <actor>Greg Mathis</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Law</category>
-    <icon src="http://dtil.tmsimg.com/assets/p25158475_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S4 E2</episode-num>
-    <previously-shown />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="WYFF-DT3.us_locals1" start="20261013193000 +0000" stop="20261013200000 +0000">
-    <title lang="en">Mathis Court With Judge Mathis</title>
-    <sub-title lang="en">Roll-A-Way Bride &amp; Catch My Drift</sub-title>
-    <desc lang="en">A woman sues her neighbor for yard cleanup costs after a pre-wedding prank; a luxury car rental owner takes a rapper to court over a damaged Lamborghini.</desc>
-    <credits>
-      <actor>Greg Mathis</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Law</category>
-    <icon src="http://dtil.tmsimg.com/assets/p25158475_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E40</episode-num>
-    <previously-shown />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="WYFF-DT3.us_locals1" start="20261013200000 +0000" stop="20261013210000 +0000">
-    <title lang="en">WYFF News 4 at 4pm</title>
-    <desc lang="en">Stay informed with the late local breaking news and headlines.</desc>
-    <date>2016</date>
-    <category lang="en">News</category>
-    <category lang="en">Documentary</category>
-    <icon src="http://dtil.tmsimg.com/assets/p13101656_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WYFF-DT3.us_locals1" start="20261013210000 +0000" stop="20261013213000 +0000">
-    <title lang="en">WYFF News 4 at 5pm</title>
-    <desc lang="en">Early evening news.</desc>
-    <date>2002</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p986962_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WYFF-DT3.us_locals1" start="20261013213000 +0000" stop="20261013220000 +0000">
-    <title lang="en">WYFF News 4 at 5:30pm</title>
-    <desc lang="en">Early evening news.</desc>
-    <date>2002</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p986960_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WYFF-DT3.us_locals1" start="20261013220000 +0000" stop="20261013223000 +0000">
-    <title lang="en">WYFF News 4 at 6pm</title>
-    <desc lang="en">Early evening news.</desc>
-    <date>2002</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p986966_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WYFF-DT3.us_locals1" start="20261013223000 +0000" stop="20261013230000 +0000">
-    <title lang="en">CBS Evening News</title>
-    <desc lang="en">Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.</desc>
-    <credits>
-      <actor>Tony Dokoupil</actor>
-      <actor>Maurice DuBois</actor>
-      <actor>Jericka Duncan</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">E286</episode-num>
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WYFF-DT3.us_locals1" start="20261013230000 +0000" stop="20261014000000 +0000">
-    <title lang="en">WYFF News 4 at 7</title>
-    <date>2026</date>
-    <category lang="en">Special</category>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33894031_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />
-  </programme>
-  <programme channel="WYFF-DT3.us_locals1" start="20261014000000 +0000" stop="20261014010000 +0000">
-    <title lang="en">NCIS</title>
-    <sub-title lang="en">Clean Slate</sub-title>
-    <desc lang="en">When a man is murdered after a neighborhood dinner party, the team discovers every guest is lying; the deeper the team digs, the less they can agree on what kind of case they're even working.</desc>
-    <credits>
-      <actor>Sean Murray</actor>
-      <actor>Wilmer Valderrama</actor>
-      <actor>Brian Dietzen</actor>
-      <director>Marc Roskin</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33708693_b_h8_ab.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S24 E2</episode-num>
-    <premiere lang="en" />
-    <rating system="Film &amp; Publication Board">
-      <value>16</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-    <rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-    <rating system="Arcom">
-      <value>-10</value>
-    </rating>
-    <rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-  </programme>
-  <programme channel="WYFF-DT3.us_locals1" start="20261014010000 +0000" stop="20261014020000 +0000">
-    <title lang="en">NCIS: New York</title>
-    <sub-title lang="en">Family Business</sub-title>
-    <desc lang="en">When a jewelry store robbery involving military explosives leads to the death of the jeweler's son, the team is called into action to track who was behind the deadly heist.</desc>
-    <credits>
-      <actor>LL Cool J</actor>
-      <actor>Scott Caan</actor>
-      <actor>Jennifer Beals</actor>
-      <director>Eagle Egilsson</director>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Action</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Crime drama</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33708702_b_h8_aa.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <premiere lang="en" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme>
-  <programme channel="WYFF-DT3.us_locals1" start="20261014020000 +0000" stop="20261014030000 +0000">
-    <title lang="en">NCIS: Origins</title>
-    <sub-title lang="en">My Own Worst Enemy</sub-title>
-    <desc lang="en">In the present, Gibbs returns to civilization and calls in a favor from old friend Woody; in 1992, the team bands together to help Woody when he's accused of murdering a bowling rival.</desc>
-    <credits>
-      <actor>Mark Harmon</actor>
-      <actor>Austin Stowell</actor>
-      <actor>Kyle Schmid</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Mystery</category>
-    <icon src="http://dtil.tmsimg.com/assets/p33708713_b_h8_ac.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S3 E2</episode-num>
-    <premiere lang="en" />
-    <rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating>
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme channel="WYFF-DT3.us_locals1" start="20261014030000 +0000" stop="20261014033500 +0000">
-    <title lang="en">WYFF News 4 at 11pm</title>
-    <desc lang="en">Local, national and international news coverage.</desc>
-    <date>2002</date>
-    <category lang="en">News</category>
-    <icon src="http://dtil.tmsimg.com/assets/p986957_b_h8_aa.jpg?w=960&amp;h=540" />
-    <premiere lang="en" />
-  </programme>
-  <programme channel="WYFF-DT3.us_locals1" start="20261014033500 +0000" stop="20261014040500 +0000">
-    <title lang="en">Comics Unleashed With Byron Allen</title>
-    <desc lang="en">Comics join Byron Allen in Hollywood.</desc>
-    <credits>
-      <actor>Byron Allen</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Comedy</category>
-    <icon src="http://dtil.tmsimg.com/assets/p186631_b_h8_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S4 E144</episode-num>
-    <premiere lang="en" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="WYFF-DT3.us_locals1" start="20261014040500 +0000" stop="20261014043700 +0000">
-    <title lang="en">Comics Unleashed With Byron Allen</title>
-    <sub-title lang="en">Jessica Keenan; Nick Hoff; Amir K; Tony Roberts</sub-title>
-    <desc lang="en">Jessica Keenan; Nick Hoff; Amir K; Tony Roberts.</desc>
-    <credits>
-      <actor>Byron Allen</actor>
-      <actor>Jessica Keenan</actor>
-      <actor>Nick Hoff</actor>
-    </credits>
+  <programme channel="WHNS-DT.us_locals1" start="20261017130000 +0000" stop="20261017133000 +0000">
+    <title lang="en">My Money is Safe With Greg Elie</title>
     <date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Comedy</category>
-    <icon src="http://dtil.tmsimg.com/assets/p186631_b_h8_ad.jpg?w=960&amp;h=540" />
-    <episode-num system="onscreen">S4 E14</episode-num>
+    <category lang="en">Bus./financial</category>
+    <category lang="en">Consumer</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31253002_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
+  </programme>
+  <programme channel="WHNS-DT.us_locals1" start="20261017133000 +0000" stop="20261017140000 +0000">
+    <title lang="en">Palmetto Life</title>
+    <desc lang="en">Palmetto Life explores food, lifestyle, things to do, and local businesses in the Lowcountry.</desc>
+    <date>2023</date>
+    <category lang="en">Community</category>
+    <icon src="http://dtil.tmsimg.com/assets/p25549131_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="WHNS-DT.us_locals1" start="20261017140000 +0000" stop="20261017160000 +0000">
+    <title lang="en">Live: Big Noon Kickoff</title>
+    <desc lang="en">College football pregame show with Urban Meyer, Mark Ingram, Matt Leinart and Brady Quinn. Led by Rob Stone, the group analyzes the biggest games, with special attention to the "Big Noon Saturday" game on FOX.</desc>
+    <credits>
+      <actor>Rob Stone</actor>
+      <actor>Matt Leinart</actor>
+      <actor>Mark Ingram</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/p17245398_b_h8_ao.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WHNS-DT.us_locals1" start="20261017160000 +0000" stop="20261017193000 +0000">
+    <title lang="en">Live: College Football</title>
+    <desc lang="en">From Merchants Bank Field at Memorial Stadium in Bloomington, Ind.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0036YV5J.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WHNS-DT.us_locals1" start="20261017193000 +0000" stop="20261017230000 +0000">
+    <title lang="en">Live: College Football</title>
+    <desc lang="en">From Galaxy Stadium in Lubbock, Texas..</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0036YS2F.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WHNS-DT.us_locals1" start="20261017230000 +0000" stop="20261017233000 +0000">
+    <title lang="en">Live: FOX College Football Extra</title>
+    <desc lang="en">Highlights and updates of the day's college football action and previews of upcoming games.</desc>
+    <credits>
+      <actor>Mike Hill</actor>
+      <actor>Chris Petersen</actor>
+      <actor>Bruce Feldman</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/p10951070_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WHNS-DT.us_locals1" start="20261017233000 +0000" stop="20261018030000 +0000">
+    <title lang="en">Live: College Football</title>
+    <desc lang="en">From TDECU Stadium in Houston.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0036YC79.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WHNS-DT.us_locals1" start="20261018030000 +0000" stop="20261018063000 +0000">
+    <title lang="en">Live: College Football</title>
+    <desc lang="en">From Autzen Stadium in Eugene, Ore.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0036YZRY.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261014043700 +0000" stop="20261014050700 +0000">
     <title lang="en">Funny You Should Ask</title>
@@ -6725,6 +5862,501 @@
     </rating>
     <rating system="USA Parental Rating">
       <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="WYFF-DT3.us_locals1" start="20261017050700 +0000" stop="20261017053700 +0000">
+    <title lang="en">Funny You Should Ask</title>
+    <desc lang="en">Billy Gardell; Sheryl Underwood; Jamie Kennedy; Byron Allen; Caroline Rhea; Brad Williams.</desc>
+    <credits>
+      <actor>Jon Kelley</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://dtil.tmsimg.com/assets/p28608175_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S9 E8</episode-num>
+    <previously-shown />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="WYFF-DT3.us_locals1" start="20261017053700 +0000" stop="20261017060700 +0000">
+    <title lang="en">Funny You Should Ask</title>
+    <desc lang="en">Guest stars include Adam Carolla, Sheryl Underwood, Bill Engvall, Byron Allen, Caroline Rhea and Brad Williams.</desc>
+    <credits>
+      <actor>Jon Kelley</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://dtil.tmsimg.com/assets/p28608175_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S9 E5</episode-num>
+    <previously-shown />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="WYFF-DT3.us_locals1" start="20261017060700 +0000" stop="20261017070700 +0000">
+    <title lang="en">Dateline</title>
+    <sub-title lang="en">Deadly Dance</sub-title>
+    <desc lang="en">A former ballerina shoots her husband in what she alleges was an act of self-defense; the ensuing investigation and dramatic trial spark protests and receives national attention.</desc>
+    <credits>
+      <actor>Craig Melvin</actor>
+      <actor>Andrea Canning</actor>
+      <actor>Natalie Morales</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Documentary</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31054010_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S9 E11</episode-num>
+    <previously-shown />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+  </programme>
+  <programme channel="WYFF-DT3.us_locals1" start="20261017070700 +0000" stop="20261017080000 +0000">
+    <title lang="en">Dateline</title>
+    <sub-title lang="en">Broken Bonds</sub-title>
+    <desc lang="en">A quiet night is shattered when intruders terrorize a Florida couple and their young son, killing one of them; investigators question the initial story; a tip leads them to another family with dark secrets, and that's when bonds are tested.</desc>
+    <credits>
+      <actor>Natalie Morales</actor>
+      <actor>Craig Melvin</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Documentary</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13159645_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="WYFF-DT3.us_locals1" start="20261017080000 +0000" stop="20261017090000 +0000">
+    <title lang="en">Weird Earth</title>
+    <sub-title lang="en">Vanishing Seas and Fog Monsters</sub-title>
+    <desc lang="en">A paradise beach in the Bahamas is transformed as the ocean simply vanishes; a woman films the silhouette of a 12-foot monster lurking in the fog.</desc>
+    <credits>
+      <director>Grace Tierney</director>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Nature</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18373867_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <previously-shown />
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="WYFF-DT3.us_locals1" start="20261017090000 +0000" stop="20261017100000 +0000">
+    <title lang="en">WYFF News 4 at 5 Saturday</title>
+    <desc lang="en">Weekend news coverage.</desc>
+    <date>2008</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p986958_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WYFF-DT3.us_locals1" start="20261017100000 +0000" stop="20261017110000 +0000">
+    <title lang="en">WYFF News 4 at 6am</title>
+    <desc lang="en">News coverage to start the day.</desc>
+    <date>2002</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p986965_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WYFF-DT3.us_locals1" start="20261017110000 +0000" stop="20261017113000 +0000">
+    <title lang="en">Dr. Chris: Pet Vet</title>
+    <desc lang="en">Busy veterinarian Dr. Chris Brown encounters many adventures in the day-to-day of a life dedicated to caring for and treating animals. "Dr. Chris: Pet Vet" features the animal and human interest stories he and his friend and colleague Dr. Lisa Chimes -- whom he calls on for animals that require specialist services -- run into as they deal with a variety of animals who undergo an assortment of different treatments, including some of the most intricate and technologically advanced surgeries available.</desc>
+    <credits>
+      <actor>Chris Brown</actor>
+      <actor>Alex Rain</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Reality</category>
+    <category lang="en">Animals</category>
+    <category lang="en">Pets</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14482331_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WYFF-DT3.us_locals1" start="20261017113000 +0000" stop="20261017120000 +0000">
+    <title lang="en">The Open Road With Dr. Chris</title>
+    <desc lang="en">Renowned veterinarian Dr. Chris Brown brings viewers along on rare educational adventures while he visits places all around the globe. Dr. Chris' commitment to animal care extends to environmental stewardship, and it's with this in mind that he embarks on a journey that sees him taking on exhilarating experiences that range from hiking in a volcano to swimming with humpback whales. As Dr. Chris immerses himself in culturally diverse destinations, he takes care to uncover each region's best-kept secrets.</desc>
+    <credits>
+      <actor>Chris Brown</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Reality</category>
+    <category lang="en">Travel</category>
+    <category lang="en">Animals</category>
+    <icon src="http://dtil.tmsimg.com/assets/p14482347_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WYFF-DT3.us_locals1" start="20261017120000 +0000" stop="20261017140000 +0000">
+    <title lang="en">CBS Saturday Morning</title>
+    <desc lang="en">Each Saturday morning, Adriana Diaz and Kelly O'Grady report on the week's top stories; the broadcast, known for its signature segments The Dish and Saturday Sessions, offers insightful conversations with artists, authors, chefs and musicians.</desc>
+    <credits>
+      <actor>Adriana Diaz</actor>
+      <actor>Kelly O'Grady</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20589876_b_h8_af.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E42</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WYFF-DT3.us_locals1" start="20261017140000 +0000" stop="20261017143000 +0000">
+    <title lang="en">Lucky Dog: Paws With Purpose</title>
+    <desc lang="en">Animal trainer Brandon McMillan matches deserving dogs with military members and families, highlighting how the bond between people and animals can provide comfort, companionship and stability. Along the way, viewers learn about the unique experiences of service members and military families and how qualities such as discipline, patience, teamwork and trust play an important role in both military life and successful dog training. The series features Smoky, a certified therapy dog and USAA's new K9 ambassador and chief pawsitivity officer, alongside her handler, Chris, an Air Force reservist and former military working dog handler.</desc>
+    <credits>
+      <actor>Brandon McMillan</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Reality</category>
+    <category lang="en">Animals</category>
+    <category lang="en">Pets</category>
+    <category lang="en">Docudrama</category>
+    <category lang="en">Adventure</category>
+    <icon src="http://dtil.tmsimg.com/assets/p34174694_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WYFF-DT3.us_locals1" start="20261017143000 +0000" stop="20261017150000 +0000">
+    <title lang="en">Lucky Dog: Down Under</title>
+    <desc lang="en">Host Brandon McMillan showcases the heartwarming stories of Australian shelter dogs as they transition from rescue and rehabilitation to cherished members of loving families. Whether it's a scrappy terrier, an energetic kelpie or a partially deaf cattle dog, audiences discover that second chances can transform lives on both ends of the leash. This original series is based on the hit international format "The Dog House Australia.".</desc>
+    <credits>
+      <actor>Brandon McMillan</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Animals</category>
+    <category lang="en">Pets</category>
+    <category lang="en">Reality</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31052061_b_h8_ac.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WYFF-DT3.us_locals1" start="20261017150000 +0000" stop="20261017153000 +0000">
+    <title lang="en">Hope in the Wild</title>
+    <desc lang="en">Wildlife rehabilitation expert Hope Swinimer and her dedicated team rescue and heal injured and orphaned animals of all kinds. Hope's passion for wildlife conservation shines through everything she does as she and her team go on difficult missions to care for and return each animal to the wild. "Hope in the Wild" educates viewers on the day-to-day jobs of this animal care team and the varied species the team encounters. This show is specifically designed to further the educational and informational needs of children.</desc>
+    <credits>
+      <actor>Hope Swinimer</actor>
+      <actor>Timmy Morgan</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Reality</category>
+    <category lang="en">Nature</category>
+    <category lang="en">Animals</category>
+    <category lang="en">Educational</category>
+    <icon src="http://dtil.tmsimg.com/assets/p20605824_b_h10_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="WYFF-DT3.us_locals1" start="20261017153000 +0000" stop="20261017160000 +0000">
+    <title lang="en">The Visioneers With Zay Harding</title>
+    <desc lang="en">International explorer Zay Harding takes viewers around the world as he showcases the remarkable scientists, engineers and everyday people who are creating environmental solutions.</desc>
+    <credits>
+      <actor>Zay Harding</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Adventure</category>
+    <category lang="en">Science</category>
+    <category lang="en">Environment</category>
+    <category lang="en">Educational</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31251538_b_h10_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="WYFF-DT3.us_locals1" start="20261017160000 +0000" stop="20261017163000 +0000">
+    <title lang="en">Vets Saving Pets</title>
+    <sub-title lang="en">Caravan Kangaroo Capture</sub-title>
+    <desc lang="en">Capturing a kangaroo that has wandered into a caravan park; a dog named Homer has several ailments.</desc>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animals</category>
+    <category lang="en">Pets</category>
+    <category lang="en">Documentary</category>
+    <icon src="http://dtil.tmsimg.com/assets/p15895977_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <previously-shown />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="WYFF-DT3.us_locals1" start="20261017163000 +0000" stop="20261017183000 +0000">
+    <title lang="en">Live: NWSL Soccer</title>
+    <desc lang="en">The Washington Spirit host the Gotham FC in the NWSL regular-season play at Audi Field. Gotham arrives as the league leader with two matchdays remaining, while the Spirit, sitting third, has alternated wins and losses across its last four games.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003CT4BZ.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WYFF-DT3.us_locals1" start="20261017183000 +0000" stop="20261017193000 +0000">
+    <title lang="en">Live: College Football Today</title>
+    <desc lang="en">Adam Zucker, Brian Jones and Rick Neuheisel present all the day's news and highlights on CBS' pregame, halftime and postgame studio show.</desc>
+    <credits>
+      <actor>Adam Zucker</actor>
+      <actor>Brian Jones</actor>
+      <actor>Rick Neuheisel</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/p221280_b_h10_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme channel="WYFF-DT3.us_locals1" start="20261017193000 +0000" stop="20261017230000 +0000">
+    <title lang="en">Live: College Football</title>
+    <desc lang="en">From Michigan Stadium in Ann Arbor, Mich.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0036YHJ8.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WYFF-DT3.us_locals1" start="20261017230000 +0000" stop="20261017233000 +0000">
+    <title lang="en">Live: Postgame Show</title>
+    <desc lang="en">College football postgame.</desc>
+    <date>1992</date>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p860711_b_h8_ac.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WYFF-DT3.us_locals1" start="20261017233000 +0000" stop="20261018000000 +0000">
+    <title lang="en">Inside Edition Weekend</title>
+    <desc lang="en">A news magazine show covering entertainment news and celebrity reports; investigative reports dig into top stories and human interest headlines.</desc>
+    <credits>
+      <actor>Mary Calvi</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p186638_b_h10_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S39 E5</episode-num>
+    <premiere lang="en" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="WYFF-DT3.us_locals1" start="20261018000000 +0000" stop="20261018010000 +0000">
+    <title lang="en">CBS News Things That Matter: A Town Hall With Vice President JD Vance</title>
+    <desc lang="en">Vice President JD Vance on the state of the country and the future of the Republican Party.</desc>
+    <credits>
+      <actor>JD Vance</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Event</category>
+    <category lang="en">Politics</category>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32485856_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WYFF-DT3.us_locals1" start="20261018010000 +0000" stop="20261018020000 +0000">
+    <title lang="en">48 Hours</title>
+    <sub-title lang="en">The Corn Rake Witness</sub-title>
+    <desc lang="en">Iowa farmer Todd Mullis' 2019 conviction for killing his wife, Amy, with a corn rake; their 21-year-old son speaks out for the first time.</desc>
+    <credits>
+      <actor>Erin Moriarty</actor>
+      <actor>Peter Van Sant</actor>
+      <actor>Natalie Morales</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Law</category>
+    <icon src="http://dtil.tmsimg.com/assets/p200944_b_h8_bb.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S40 E1</episode-num>
+    <premiere lang="en" />
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="WYFF-DT3.us_locals1" start="20261018020000 +0000" stop="20261018030000 +0000">
+    <title lang="en">48 Hours</title>
+    <sub-title lang="en">The Detective and the Chewing Gum Sting</sub-title>
+    <desc lang="en">A cold-case detective devises an undercover plan to get the DNA linking a suspect to the murders of two women from a piece of chewed gum, leading to a conviction.</desc>
+    <credits>
+      <actor>Erin Moriarty</actor>
+      <actor>Peter Van Sant</actor>
+      <actor>Natalie Morales</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Law</category>
+    <icon src="http://dtil.tmsimg.com/assets/p200944_b_h8_bb.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S40 E2</episode-num>
+    <premiere lang="en" />
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating>
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+    <rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+    <rating system="Arcom">
+      <value>-10</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="WYFF-DT3.us_locals1" start="20261018030000 +0000" stop="20261018033000 +0000">
+    <title lang="en">WYFF News 4 at 11pm</title>
+    <desc lang="en">Local, national and international news coverage.</desc>
+    <date>2002</date>
+    <category lang="en">News</category>
+    <icon src="http://dtil.tmsimg.com/assets/p986957_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WYFF-DT3.us_locals1" start="20261018033000 +0000" stop="20261018040000 +0000">
+    <title lang="en">Game Time With Boomer Esiason</title>
+    <sub-title lang="en">Madison Chock and Evan Bates</sub-title>
+    <desc lang="en">Olympic figure skating gold medalists Madison Chock and Evan Bates.</desc>
+    <credits>
+      <actor>Boomer Esiason</actor>
+      <actor>Madison Chock</actor>
+      <actor>Evan Bates</actor>
+    </credits>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Interview</category>
+    <icon src="http://dtil.tmsimg.com/assets/p17167704_b_h8_ac.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S8 E7</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="WYFF-DT3.us_locals1" start="20261018040000 +0000" stop="20261018050000 +0000">
+    <title lang="en">Dateline</title>
+    <sub-title lang="en">Deadly Dance</sub-title>
+    <desc lang="en">A former ballerina shoots her husband in what she alleges was an act of self-defense; the ensuing investigation and dramatic trial spark protests and receives national attention.</desc>
+    <credits>
+      <actor>Craig Melvin</actor>
+      <actor>Andrea Canning</actor>
+      <actor>Natalie Morales</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Documentary</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31054010_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S9 E11</episode-num>
+    <previously-shown />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
     </rating>
   </programme>
 </tv>
