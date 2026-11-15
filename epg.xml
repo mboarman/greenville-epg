@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="Greenville SC EPG" source-info-name="EPGShare US_LOCALS1">
   <channel id="WHNS-DT.us_locals1">
-    <icon src="http://dshm.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dshm.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s28719_ll_h15_ac.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">WHNS-DT</display-name>
   </channel>
   <channel id="WYFF-DT3.us_locals1">
-    <icon src="http://dshm.tmsimg.com/assets/s10098_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dshm.tmsimg.com/assets/s10098_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s10098_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s10098_ll_h15_ac.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">WYFF-DT3</display-name>
   </channel>
   <channel id="WLOS-DT.us_locals1">
-    <icon src="http://dshm.tmsimg.com/assets/s28708_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dshm.tmsimg.com/assets/s28708_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s28708_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s28708_ll_h15_ac.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">WLOS-DT</display-name>
   </channel>
@@ -30,7 +30,7 @@
     <category lang="en">Talk</category>
     <category lang="en">News</category>
     <category lang="en">Interview</category>
-    <icon src="http://dshm.tmsimg.com/assets/p184465_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p184465_b_h8_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E233</episode-num>
     <premiere lang="en" />
   </programme>
@@ -40,7 +40,7 @@
     <category lang="en">Consumer</category>
     <category lang="en">Shopping</category>
     <category lang="en">Variety</category>
-    <icon src="http://dshm.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
     <previously-shown />
     <rating system="USA Parental Rating">
       <value>TVG</value>
@@ -76,7 +76,7 @@
     <category lang="en">Series</category>
     <category lang="en">Newsmagazine</category>
     <category lang="en">Entertainment</category>
-    <icon src="http://dshm.tmsimg.com/assets/p184109_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p184109_b_h8_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S33 E65</episode-num>
     <previously-shown />
     <rating system="USA Parental Rating">
@@ -93,14 +93,14 @@
     <title lang="en">The Aging Brain</title>
     <desc lang="en">Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.</desc>
     <category lang="en">Consumer</category>
-    <icon src="http://dshm.tmsimg.com/assets/p30127108_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p30127108_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261114073600 +0000" stop="20261114080500 +0000">
     <title lang="en">Tired of Aging? Super Pill's Secret to Lasting Youth &amp; Vitality!</title>
     <desc lang="en">Tired of feeling old? Discover The Super Pill! 6 elite formulas packed with clinically studied ingredients for revolutionary heart, brain, joint, immune, skin, and eye health. Don't just age-thrive! Unlock your ultimate vitality and well-being today.</desc>
     <category lang="en">Consumer</category>
-    <icon src="http://dshm.tmsimg.com/assets/p33753564_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p33753564_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261114080500 +0000" stop="20261114100000 +0000">
@@ -115,7 +115,7 @@
     <date>2011</date>
     <category lang="en">Movie</category>
     <category lang="en">Action</category>
-    <icon src="http://dshm.tmsimg.com/assets/p8848145_v_h8_ad.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p8848145_v_h8_ad.jpg?w=960&amp;h=540" />
     <previously-shown />
     <rating system="Motion Picture Association">
       <value>R</value>
@@ -165,7 +165,7 @@
     <desc lang="en">Host Carl White shares stories about the people and places of the Carolinas.</desc>
     <date>2009</date>
     <category lang="en">Travel</category>
-    <icon src="http://dshm.tmsimg.com/assets/p7857828_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p7857828_b_h10_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261114103000 +0000" stop="20261114110000 +0000">
@@ -174,7 +174,7 @@
     <category lang="en">Consumer</category>
     <category lang="en">Shopping</category>
     <category lang="en">Variety</category>
-    <icon src="http://dshm.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
     <previously-shown />
     <rating system="USA Parental Rating">
       <value>TVG</value>
@@ -203,7 +203,7 @@
     <desc lang="en">Morning news coverage.</desc>
     <date>2011</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p8537505_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p8537505_b_h8_ab.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261114120000 +0000" stop="20261114130000 +0000">
@@ -211,7 +211,7 @@
     <desc lang="en">Saturday morning news.</desc>
     <date>2011</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p8537510_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p8537510_b_h8_ab.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261114130000 +0000" stop="20261114140000 +0000">
@@ -228,7 +228,7 @@
     <category lang="en">News</category>
     <category lang="en">Variety</category>
     <category lang="en">Public affairs</category>
-    <icon src="http://dshm.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E361</episode-num>
     <premiere lang="en" />
   </programme>
@@ -246,7 +246,7 @@
     <category lang="en">News</category>
     <category lang="en">Variety</category>
     <category lang="en">Public affairs</category>
-    <icon src="http://dshm.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E362</episode-num>
     <premiere lang="en" />
   </programme>
@@ -254,7 +254,7 @@
     <title lang="en">The Asset Preservation Hour</title>
     <desc lang="en">Watch retirement planning professional Stewart Willis as he educates and informs those in or near retirement.</desc>
     <category lang="en">Consumer</category>
-    <icon src="http://dshm.tmsimg.com/assets/p21942441_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p21942441_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261114153000 +0000" stop="20261114160000 +0000">
@@ -268,7 +268,7 @@
     <category lang="en">Series</category>
     <category lang="en">Nature</category>
     <category lang="en">Animals</category>
-    <icon src="http://dshm.tmsimg.com/assets/p33852324_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p33852324_b_h8_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S1 E4</episode-num>
     <premiere lang="en" />
   </programme>
@@ -283,7 +283,7 @@
     <category lang="en">Series</category>
     <category lang="en">Sports talk</category>
     <category lang="en">Interview</category>
-    <icon src="http://dshm.tmsimg.com/assets/p32928958_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p32928958_b_h8_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S1 E12</episode-num>
     <previously-shown />
   </programme>
@@ -299,7 +299,7 @@
     <category lang="en">Reality</category>
     <category lang="en">Nature</category>
     <category lang="en">Science</category>
-    <icon src="http://dshm.tmsimg.com/assets/p16722748_b_h8_ad.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p16722748_b_h8_ad.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S8 E14</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -320,7 +320,7 @@
     <desc lang="en">The No. 7 Hurricanes (8-1, 6-0 ACC) try to recover as they host the Blue Devils (7-2, 4-2). Miami, which is without star wideout Malachi Toney, lost 31-24 at Notre Dame last week. Duke has won three straight after dismantling NC State, 41-3.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <icon src="http://dshm.tmsimg.com/assets/GNLZZGG00371P59.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG00371P59.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261114200000 +0000" stop="20261114203000 +0000">
@@ -329,7 +329,7 @@
     <date>2018</date>
     <category lang="en">Football</category>
     <category lang="en">Sports talk</category>
-    <icon src="http://dshm.tmsimg.com/assets/p15663476_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p15663476_b_h8_ab.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261114203000 +0000" stop="20261114233000 +0000">
@@ -337,7 +337,7 @@
     <desc lang="en">The No. 1 Georgia Bulldogs (8-1, 6-1 SEC) host the No. 22 Missouri Tigers (6-3, 3-3 SEC) at Sanford Stadium. Georgia aims for a three-game win streak behind quarterback Gunner Stockton, while Missouri hopes to bounce back after 34-20 loss to Texas.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <icon src="http://dshm.tmsimg.com/assets/GNLZZGG00371LKE.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG00371LKE.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261114233000 +0000" stop="20261115000000 +0000">
@@ -346,7 +346,7 @@
     <date>2018</date>
     <category lang="en">Football</category>
     <category lang="en">Sports talk</category>
-    <icon src="http://dshm.tmsimg.com/assets/p15663476_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p15663476_b_h8_ab.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261115000000 +0000" stop="20261115003000 +0000">
@@ -355,7 +355,7 @@
     <date>2018</date>
     <category lang="en">Football</category>
     <category lang="en">Sports talk</category>
-    <icon src="http://dshm.tmsimg.com/assets/p15663476_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p15663476_b_h8_ab.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261115003000 +0000" stop="20261115040000 +0000">
@@ -363,7 +363,7 @@
     <desc lang="en">The No. 6 Texas Longhorns (7-2) visit the No. 21 LSU Tigers (6-3) at Tiger Stadium in Baton Rouge. Texas seeks to make it four straight after a 34-20 victory over Missouri, while LSU fell 31-13 to Alabama and rely on quarterback Sam Leavitt.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <icon src="http://dshm.tmsimg.com/assets/GNLZZGG003X2JRC.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003X2JRC.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261115040000 +0000" stop="20261115043500 +0000">
@@ -371,7 +371,7 @@
     <desc lang="en">Evening news.</desc>
     <date>1999</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p825485_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p825485_b_h8_ac.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261115043500 +0000" stop="20261115050500 +0000">
@@ -379,7 +379,7 @@
     <desc lang="en">Stewart Willis discusses common sense retirement planning and achieving financial security in the 21st Century.</desc>
     <date>2023</date>
     <category lang="en">Bus./financial</category>
-    <icon src="http://dshm.tmsimg.com/assets/p24583098_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p24583098_b_h8_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261115050500 +0000" stop="20261115060500 +0000">
@@ -390,7 +390,7 @@
     </credits>
     <date>2021</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p27888009_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p27888009_b_h10_ab.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261115060500 +0000" stop="20261115063500 +0000">
@@ -403,7 +403,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Game show</category>
-    <icon src="http://dshm.tmsimg.com/assets/p184057_b_h8_ai.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p184057_b_h8_ai.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S43 E188</episode-num>
     <previously-shown />
     <rating system="USA Parental Rating">
@@ -425,7 +425,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Game show</category>
-    <icon src="http://dshm.tmsimg.com/assets/p184056_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p184056_b_h10_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S42 E181</episode-num>
     <previously-shown />
     <rating system="USA Parental Rating">
@@ -446,14 +446,14 @@
     <desc lang="en">Meet the next generation of superstar female athletes around the country as we go behind the scenes to shine the light on them and their interests off the field, along with catching up with the female legends who paved the way for all this growth.</desc>
     <date>2025</date>
     <category lang="en">Sports talk</category>
-    <icon src="http://dshm.tmsimg.com/assets/p30612602_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p30612602_b_h10_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261115073500 +0000" stop="20261115080500 +0000">
     <title lang="en">Tired of Aging? Super Pill's Secret to Lasting Youth &amp; Vitality!</title>
     <desc lang="en">Tired of feeling old? Discover The Super Pill! 6 elite formulas packed with clinically studied ingredients for revolutionary heart, brain, joint, immune, skin, and eye health. Don't just age-thrive! Unlock your ultimate vitality and well-being today.</desc>
     <category lang="en">Consumer</category>
-    <icon src="http://dshm.tmsimg.com/assets/p33753564_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p33753564_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261115080500 +0000" stop="20261115083000 +0000">
@@ -461,7 +461,7 @@
     <desc lang="en">Featuring musical artists and bands from all musical styles; through interviews, host Eric Dahl takes viewers in-depth on their new releases, tour and event information, special projects and charitable endeavors.</desc>
     <date>2020</date>
     <category lang="en">Music</category>
-    <icon src="http://dshm.tmsimg.com/assets/p18678686_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p18678686_b_h8_ac.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261115083000 +0000" stop="20261115090000 +0000">
@@ -475,7 +475,7 @@
     <category lang="en">Series</category>
     <category lang="en">Travel</category>
     <category lang="en">Educational</category>
-    <icon src="http://dshm.tmsimg.com/assets/p424773_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p424773_b_h10_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S18 E12</episode-num>
     <previously-shown />
     <rating system="USA Parental Rating">
@@ -499,7 +499,7 @@
     <category lang="en">Series</category>
     <category lang="en">Newsmagazine</category>
     <category lang="en">Entertainment</category>
-    <icon src="http://dshm.tmsimg.com/assets/p196753_b_h10_ad.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p196753_b_h10_ad.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S22 E10</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -514,7 +514,7 @@
     <date>2022</date>
     <category lang="en">Special</category>
     <category lang="en">Entertainment</category>
-    <icon src="http://dshm.tmsimg.com/assets/p21400087_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p21400087_b_h8_ac.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261115100000 +0000" stop="20261115103000 +0000">
@@ -523,7 +523,7 @@
     <category lang="en">Consumer</category>
     <category lang="en">Shopping</category>
     <category lang="en">Variety</category>
-    <icon src="http://dshm.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
     <previously-shown />
     <rating system="USA Parental Rating">
       <value>TVG</value>
@@ -556,7 +556,7 @@
     <date>1995</date>
     <category lang="en">Talk</category>
     <category lang="en">Religious</category>
-    <icon src="http://dshm.tmsimg.com/assets/p302607_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p302607_b_h10_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261115110000 +0000" stop="20261115120000 +0000">
@@ -564,7 +564,7 @@
     <desc lang="en">Sunday morning news.</desc>
     <date>2011</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p8537514_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p8537514_b_h8_ac.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261115120000 +0000" stop="20261115130000 +0000">
@@ -572,7 +572,7 @@
     <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
     <date>2011</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p8537518_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p8537518_b_h8_ac.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261115130000 +0000" stop="20261115140000 +0000">
@@ -588,7 +588,7 @@
     <category lang="en">News</category>
     <category lang="en">Variety</category>
     <category lang="en">Public affairs</category>
-    <icon src="http://dshm.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E363</episode-num>
     <premiere lang="en" />
   </programme>
@@ -606,7 +606,7 @@
     <category lang="en">News</category>
     <category lang="en">Public affairs</category>
     <category lang="en">Politics</category>
-    <icon src="http://dshm.tmsimg.com/assets/p185302_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p185302_b_h8_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E46</episode-num>
     <premiere lang="en" />
   </programme>
@@ -620,7 +620,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Newsmagazine</category>
-    <icon src="http://dshm.tmsimg.com/assets/p12066058_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p12066058_b_h10_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S12 E10</episode-num>
     <premiere lang="en" />
   </programme>
@@ -632,7 +632,7 @@
     </credits>
     <date>1979</date>
     <category lang="en">Religious</category>
-    <icon src="http://dshm.tmsimg.com/assets/p32199893_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p32199893_b_h10_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
     <rating system="Canadian Parental Rating">
       <value>G</value>
@@ -661,7 +661,7 @@
     <category lang="en">Series</category>
     <category lang="en">Agriculture</category>
     <category lang="en">Travel</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13122467_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p13122467_b_h10_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S4 E41</episode-num>
     <previously-shown />
     <rating system="USA Parental Rating">
@@ -679,7 +679,7 @@
     <desc lang="en">Watch retirement planning expert Stewart Willis as he educates and informs those in or near retirement.</desc>
     <date>2022</date>
     <category lang="en">Consumer</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22677637_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p22677637_b_h8_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261115170000 +0000" stop="20261115173000 +0000">
@@ -688,7 +688,7 @@
     <category lang="en">Consumer</category>
     <category lang="en">Shopping</category>
     <category lang="en">Variety</category>
-    <icon src="http://dshm.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
     <previously-shown />
     <rating system="USA Parental Rating">
       <value>TVG</value>
@@ -718,7 +718,7 @@
     <category lang="en">Consumer</category>
     <category lang="en">Shopping</category>
     <category lang="en">Variety</category>
-    <icon src="http://dshm.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
     <previously-shown />
     <rating system="USA Parental Rating">
       <value>TVG</value>
@@ -747,7 +747,7 @@
     <desc lang="en">The No. 1 South Carolina Gamecocks face the No. 3 USC Trojans at Bon Secours Wellness Arena in Greenville. USC enters with a three-game win streak and aims for a fourth win, while South Carolina relies on Joyce Edwards to secure a win.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Basketball</category>
-    <icon src="http://dshm.tmsimg.com/assets/GNLZZGG003S2HY0.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003S2HY0.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261115200000 +0000" stop="20261115223000 +0000">
@@ -756,14 +756,14 @@
     <category lang="en">Sports</category>
     <category lang="en">Playoff sports</category>
     <category lang="en">Soccer</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11962008_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p11962008_b_h8_ac.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261115223000 +0000" stop="20261115230000 +0000">
     <title lang="en">Humana Medicare Advantage Plans</title>
     <desc lang="en">The Medicare annual election period ends on December 7. Watch and learn about Humana Medicare Advantage plans.</desc>
     <category lang="en">Consumer</category>
-    <icon src="http://dshm.tmsimg.com/assets/p9487318_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p9487318_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261115230000 +0000" stop="20261115233000 +0000">
@@ -771,7 +771,7 @@
     <desc lang="en">Sunday evening news.</desc>
     <date>2017</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p14465240_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p14465240_b_h8_ac.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261115233000 +0000" stop="20261116000000 +0000">
@@ -783,7 +783,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E318</episode-num>
     <premiere lang="en" />
   </programme>
@@ -798,7 +798,7 @@
     <category lang="en">Series</category>
     <category lang="en">Reality</category>
     <category lang="en">Comedy</category>
-    <icon src="http://dshm.tmsimg.com/assets/p184249_b_h8_ar.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p184249_b_h8_ar.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S37 E8</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -828,7 +828,7 @@
     <category lang="en">Series</category>
     <category lang="en">Reality</category>
     <category lang="en">Comedy</category>
-    <icon src="http://dshm.tmsimg.com/assets/p184249_b_h8_ar.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p184249_b_h8_ar.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S37</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -859,7 +859,7 @@
     <date>1993</date>
     <category lang="en">Movie</category>
     <category lang="en">Musical comedy</category>
-    <icon src="http://dshm.tmsimg.com/assets/p15276_v_h8_ar.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p15276_v_h8_ar.jpg?w=960&amp;h=540" />
     <previously-shown />
     <rating system="Motion Picture Association">
       <value>PG</value>
@@ -912,14 +912,14 @@
     <desc lang="en">Sunday evening news.</desc>
     <date>2017</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p14465242_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p14465242_b_h8_ac.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261116043500 +0000" stop="20261116050500 +0000">
     <title lang="en">The Asset Preservation Hour</title>
     <desc lang="en">Watch retirement planning professional Stewart Willis as he educates and informs those in or near retirement.</desc>
     <category lang="en">Consumer</category>
-    <icon src="http://dshm.tmsimg.com/assets/p21942441_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p21942441_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261116050500 +0000" stop="20261116053500 +0000">
@@ -932,7 +932,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Newsmagazine</category>
-    <icon src="http://dshm.tmsimg.com/assets/p12066058_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p12066058_b_h10_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S12 E10</episode-num>
     <premiere lang="en" />
   </programme>
@@ -944,7 +944,7 @@
     </credits>
     <date>2021</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p27887998_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p27887998_b_h10_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261116063500 +0000" stop="20261116070500 +0000">
@@ -956,7 +956,7 @@
     <date>1995</date>
     <category lang="en">Talk</category>
     <category lang="en">Religious</category>
-    <icon src="http://dshm.tmsimg.com/assets/p302607_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p302607_b_h10_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261116070500 +0000" stop="20261116090000 +0000">
@@ -968,7 +968,7 @@
     </credits>
     <date>1992</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p184051_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p184051_b_h8_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261116090000 +0000" stop="20261116093000 +0000">
@@ -980,7 +980,7 @@
     </credits>
     <date>2024</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p28311369_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p28311369_b_h8_ac.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261116093000 +0000" stop="20261116100000 +0000">
@@ -988,7 +988,7 @@
     <desc lang="en">Early morning news.</desc>
     <date>2011</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p8537499_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p8537499_b_h8_ac.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261116100000 +0000" stop="20261116103000 +0000">
@@ -996,7 +996,7 @@
     <desc lang="en">Morning news coverage.</desc>
     <date>2006</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p825435_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p825435_b_h8_ac.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261116103000 +0000" stop="20261116110000 +0000">
@@ -1004,7 +1004,7 @@
     <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
     <date>2006</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p825434_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p825434_b_h8_ac.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261116110000 +0000" stop="20261116120000 +0000">
@@ -1012,7 +1012,7 @@
     <desc lang="en">News coverage to start the day.</desc>
     <date>1999</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p825481_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p825481_b_h8_ac.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261116120000 +0000" stop="20261116140000 +0000">
@@ -1029,7 +1029,7 @@
     <category lang="en">News</category>
     <category lang="en">Variety</category>
     <category lang="en">Public affairs</category>
-    <icon src="http://dshm.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E364</episode-num>
     <premiere lang="en" />
   </programme>
@@ -1045,7 +1045,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Game show</category>
-    <icon src="http://dshm.tmsimg.com/assets/p15722953_b_h8_am.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p15722953_b_h8_am.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S8 E50</episode-num>
     <premiere lang="en" />
     <rating system="Canadian Parental Rating">
@@ -1067,7 +1067,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Game show</category>
-    <icon src="http://dshm.tmsimg.com/assets/p15722953_b_h8_am.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p15722953_b_h8_am.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S8 E30</episode-num>
     <previously-shown />
     <rating system="Canadian Parental Rating">
@@ -1086,7 +1086,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Game show</category>
-    <icon src="http://dshm.tmsimg.com/assets/p8314079_b_h8_ah.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p8314079_b_h8_ah.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S28 E72</episode-num>
     <premiere lang="en" />
     <rating system="Canadian Parental Rating">
@@ -1108,7 +1108,7 @@
     <date>2025</date>
     <category lang="en">Series</category>
     <category lang="en">Game show</category>
-    <icon src="http://dshm.tmsimg.com/assets/p184056_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p184056_b_h10_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S42 E46</episode-num>
     <previously-shown />
     <rating system="USA Parental Rating">
@@ -1136,7 +1136,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Talk</category>
-    <icon src="http://dshm.tmsimg.com/assets/p34020938_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p34020938_b_h8_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S30 E50</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -1151,7 +1151,7 @@
     <desc lang="en">Local, national and international news.</desc>
     <date>1999</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p825508_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p825508_b_h8_ac.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261116173000 +0000" stop="20261116180000 +0000">
@@ -1159,7 +1159,7 @@
     <desc lang="en">Local and regional news coverage.</desc>
     <date>2007</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p825495_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p825495_b_h8_ac.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261116180000 +0000" stop="20261116190000 +0000">
@@ -1175,7 +1175,7 @@
     <category lang="en">News</category>
     <category lang="en">Talk</category>
     <category lang="en">Health</category>
-    <icon src="http://dshm.tmsimg.com/assets/p30687311_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p30687311_b_h8_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S7 E41</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -1199,7 +1199,7 @@
     <category lang="en">Medical</category>
     <category lang="en">Drama</category>
     <category lang="en">Romance</category>
-    <icon src="http://dshm.tmsimg.com/assets/p183893_b_h10_ao.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p183893_b_h10_ao.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S64 E50</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -1227,7 +1227,7 @@
     <category lang="en">Series</category>
     <category lang="en">Talk</category>
     <category lang="en">Entertainment</category>
-    <icon src="http://dshm.tmsimg.com/assets/p34068211_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p34068211_b_h8_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S7 E89</episode-num>
     <premiere lang="en" />
     <rating system="Régie du cinéma">
@@ -1258,7 +1258,7 @@
     <category lang="en">Series</category>
     <category lang="en">Talk</category>
     <category lang="en">Entertainment</category>
-    <icon src="http://dshm.tmsimg.com/assets/p34068211_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p34068211_b_h8_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S7 E90</episode-num>
     <premiere lang="en" />
     <rating system="Régie du cinéma">
@@ -1289,7 +1289,7 @@
     <category lang="en">Series</category>
     <category lang="en">Newsmagazine</category>
     <category lang="en">Entertainment</category>
-    <icon src="http://dshm.tmsimg.com/assets/p184109_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p184109_b_h8_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S33 E67</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -1311,7 +1311,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Game show</category>
-    <icon src="http://dshm.tmsimg.com/assets/p8314079_b_h8_ah.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p8314079_b_h8_ah.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S28 E71</episode-num>
     <premiere lang="en" />
     <rating system="Canadian Parental Rating">
@@ -1329,7 +1329,7 @@
     <desc lang="en">Local and regional news coverage.</desc>
     <date>1999</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p686684_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p686684_b_h8_ab.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261116223000 +0000" stop="20261116230000 +0000">
@@ -1337,7 +1337,7 @@
     <desc lang="en">Local and regional news.</desc>
     <date>1999</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p825497_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p825497_b_h8_ac.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261116230000 +0000" stop="20261116233000 +0000">
@@ -1345,7 +1345,7 @@
     <desc lang="en">Local and regional news coverage.</desc>
     <date>1999</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p825502_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p825502_b_h8_ac.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261116233000 +0000" stop="20261117000000 +0000">
@@ -1357,7 +1357,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E319</episode-num>
     <premiere lang="en" />
   </programme>
@@ -1371,7 +1371,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Game show</category>
-    <icon src="http://dshm.tmsimg.com/assets/p184057_b_h8_ai.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p184057_b_h8_ai.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S44 E46</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -1396,7 +1396,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Game show</category>
-    <icon src="http://dshm.tmsimg.com/assets/p184056_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p184056_b_h10_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S43 E46</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -1426,7 +1426,7 @@
     <category lang="en">Series</category>
     <category lang="en">Romance</category>
     <category lang="en">Biography</category>
-    <icon src="http://dshm.tmsimg.com/assets/p32285170_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p32285170_b_h8_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <previously-shown />
     <rating system="Kijkwijzer">
@@ -1450,7 +1450,7 @@
     <category lang="en">Series</category>
     <category lang="en">Romance</category>
     <category lang="en">Biography</category>
-    <icon src="http://dshm.tmsimg.com/assets/p32285170_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p32285170_b_h8_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S1 E2</episode-num>
     <previously-shown />
     <rating system="Kijkwijzer">
@@ -1472,7 +1472,7 @@
     <category lang="en">Special</category>
     <category lang="en">News</category>
     <category lang="en">Biography</category>
-    <icon src="http://dshm.tmsimg.com/assets/p32414791_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p32414791_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
     <rating system="Australian Classification Board">
       <value>M 15+</value>
@@ -1486,7 +1486,7 @@
     <desc lang="en">Evening news.</desc>
     <date>1999</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p825485_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p825485_b_h8_ac.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261117043500 +0000" stop="20261117053700 +0000">
@@ -1502,7 +1502,7 @@
     <category lang="en">Series</category>
     <category lang="en">Talk</category>
     <category lang="en">Comedy</category>
-    <icon src="http://dshm.tmsimg.com/assets/p31278894_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p31278894_b_h8_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S25 E36</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -1527,7 +1527,7 @@
     <category lang="en">Talk</category>
     <category lang="en">News</category>
     <category lang="en">Interview</category>
-    <icon src="http://dshm.tmsimg.com/assets/p184465_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p184465_b_h8_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E234</episode-num>
     <premiere lang="en" />
   </programme>
@@ -1535,7 +1535,7 @@
     <title lang="en">Natural Blood Pressure Management</title>
     <desc lang="en">Unleash the power of My Best Heart's patented Red Spinach-Potassium Nitrate combination, plus 8 natural dietary blood pressure regulators to maintain a normal healthy range. Improve circulation and restore more youthful energy and vitality.</desc>
     <category lang="en">Consumer</category>
-    <icon src="http://dshm.tmsimg.com/assets/p29188954_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p29188954_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261117063600 +0000" stop="20261117070600 +0000">
@@ -1550,7 +1550,7 @@
     <category lang="en">Series</category>
     <category lang="en">Newsmagazine</category>
     <category lang="en">Entertainment</category>
-    <icon src="http://dshm.tmsimg.com/assets/p184109_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p184109_b_h8_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S33 E67</episode-num>
     <previously-shown />
     <rating system="USA Parental Rating">
@@ -1569,7 +1569,7 @@
     <category lang="en">Consumer</category>
     <category lang="en">Shopping</category>
     <category lang="en">Variety</category>
-    <icon src="http://dshm.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
     <previously-shown />
     <rating system="USA Parental Rating">
       <value>TVG</value>
@@ -1602,7 +1602,7 @@
     </credits>
     <date>1992</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p184051_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p184051_b_h8_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261117090000 +0000" stop="20261117093000 +0000">
@@ -1614,7 +1614,7 @@
     </credits>
     <date>2024</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p28311369_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p28311369_b_h8_ac.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261117093000 +0000" stop="20261117100000 +0000">
@@ -1622,7 +1622,7 @@
     <desc lang="en">Early morning news.</desc>
     <date>2011</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p8537499_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p8537499_b_h8_ac.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261117100000 +0000" stop="20261117103000 +0000">
@@ -1630,7 +1630,7 @@
     <desc lang="en">Morning news coverage.</desc>
     <date>2006</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p825435_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p825435_b_h8_ac.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261117103000 +0000" stop="20261117110000 +0000">
@@ -1638,7 +1638,7 @@
     <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
     <date>2006</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p825434_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p825434_b_h8_ac.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261117110000 +0000" stop="20261117120000 +0000">
@@ -1646,7 +1646,7 @@
     <desc lang="en">News coverage to start the day.</desc>
     <date>1999</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p825481_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p825481_b_h8_ac.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261117120000 +0000" stop="20261117140000 +0000">
@@ -1663,7 +1663,7 @@
     <category lang="en">News</category>
     <category lang="en">Variety</category>
     <category lang="en">Public affairs</category>
-    <icon src="http://dshm.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E365</episode-num>
     <premiere lang="en" />
   </programme>
@@ -1679,7 +1679,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Game show</category>
-    <icon src="http://dshm.tmsimg.com/assets/p15722953_b_h8_am.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p15722953_b_h8_am.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S8 E51</episode-num>
     <premiere lang="en" />
     <rating system="Canadian Parental Rating">
@@ -1701,7 +1701,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Game show</category>
-    <icon src="http://dshm.tmsimg.com/assets/p15722953_b_h8_am.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p15722953_b_h8_am.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S8 E31</episode-num>
     <previously-shown />
     <rating system="Canadian Parental Rating">
@@ -1720,7 +1720,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Game show</category>
-    <icon src="http://dshm.tmsimg.com/assets/p8314079_b_h8_ah.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p8314079_b_h8_ah.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S28 E74</episode-num>
     <premiere lang="en" />
     <rating system="Canadian Parental Rating">
@@ -1742,7 +1742,7 @@
     <date>2025</date>
     <category lang="en">Series</category>
     <category lang="en">Game show</category>
-    <icon src="http://dshm.tmsimg.com/assets/p184056_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p184056_b_h10_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S42 E47</episode-num>
     <previously-shown />
     <rating system="USA Parental Rating">
@@ -1770,7 +1770,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Talk</category>
-    <icon src="http://dshm.tmsimg.com/assets/p34020938_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p34020938_b_h8_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S30 E51</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -1785,7 +1785,7 @@
     <desc lang="en">Local, national and international news.</desc>
     <date>1999</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p825508_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p825508_b_h8_ac.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261117173000 +0000" stop="20261117180000 +0000">
@@ -1793,7 +1793,7 @@
     <desc lang="en">Local and regional news coverage.</desc>
     <date>2007</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p825495_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p825495_b_h8_ac.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261117180000 +0000" stop="20261117190000 +0000">
@@ -1809,7 +1809,7 @@
     <category lang="en">News</category>
     <category lang="en">Talk</category>
     <category lang="en">Health</category>
-    <icon src="http://dshm.tmsimg.com/assets/p30687311_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p30687311_b_h8_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S7 E42</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -1833,7 +1833,7 @@
     <category lang="en">Medical</category>
     <category lang="en">Drama</category>
     <category lang="en">Romance</category>
-    <icon src="http://dshm.tmsimg.com/assets/p183893_b_h10_ao.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p183893_b_h10_ao.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S64 E51</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -1862,7 +1862,7 @@
     <category lang="en">Series</category>
     <category lang="en">Talk</category>
     <category lang="en">Entertainment</category>
-    <icon src="http://dshm.tmsimg.com/assets/p34068211_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p34068211_b_h8_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S7 E91</episode-num>
     <premiere lang="en" />
     <rating system="Régie du cinéma">
@@ -1894,7 +1894,7 @@
     <category lang="en">Series</category>
     <category lang="en">Talk</category>
     <category lang="en">Entertainment</category>
-    <icon src="http://dshm.tmsimg.com/assets/p34068211_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p34068211_b_h8_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S7 E92</episode-num>
     <premiere lang="en" />
     <rating system="Régie du cinéma">
@@ -1925,7 +1925,7 @@
     <category lang="en">Series</category>
     <category lang="en">Newsmagazine</category>
     <category lang="en">Entertainment</category>
-    <icon src="http://dshm.tmsimg.com/assets/p184109_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p184109_b_h8_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S33 E68</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -1947,7 +1947,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Game show</category>
-    <icon src="http://dshm.tmsimg.com/assets/p8314079_b_h8_ah.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p8314079_b_h8_ah.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S28 E73</episode-num>
     <premiere lang="en" />
     <rating system="Canadian Parental Rating">
@@ -1965,7 +1965,7 @@
     <desc lang="en">Local and regional news coverage.</desc>
     <date>1999</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p686684_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p686684_b_h8_ab.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261117223000 +0000" stop="20261117230000 +0000">
@@ -1973,7 +1973,7 @@
     <desc lang="en">Local and regional news.</desc>
     <date>1999</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p825497_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p825497_b_h8_ac.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261117230000 +0000" stop="20261117233000 +0000">
@@ -1981,7 +1981,7 @@
     <desc lang="en">Local and regional news coverage.</desc>
     <date>1999</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p825502_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p825502_b_h8_ac.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261117233000 +0000" stop="20261118000000 +0000">
@@ -1993,7 +1993,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E320</episode-num>
     <premiere lang="en" />
   </programme>
@@ -2007,7 +2007,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Game show</category>
-    <icon src="http://dshm.tmsimg.com/assets/p184057_b_h8_ai.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p184057_b_h8_ai.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S44 E47</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -2032,7 +2032,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Game show</category>
-    <icon src="http://dshm.tmsimg.com/assets/p184056_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p184056_b_h10_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S43 E47</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -2062,7 +2062,7 @@
     <category lang="en">Series</category>
     <category lang="en">Dance</category>
     <category lang="en">Competition Reality</category>
-    <icon src="http://dshm.tmsimg.com/assets/p187511_b_h8_ax.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p187511_b_h8_ax.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S35 E11</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -2090,7 +2090,7 @@
     <category lang="en">Music</category>
     <category lang="en">Country</category>
     <category lang="en">Entertainment</category>
-    <icon src="http://dshm.tmsimg.com/assets/p34426666_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p34426666_b_h8_ab.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261118040000 +0000" stop="20261118043500 +0000">
@@ -2098,7 +2098,7 @@
     <desc lang="en">Evening news.</desc>
     <date>1999</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p825485_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p825485_b_h8_ac.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WLOS-DT.us_locals1" start="20261118043500 +0000" stop="20261118053700 +0000">
@@ -2114,7 +2114,7 @@
     <category lang="en">Series</category>
     <category lang="en">Talk</category>
     <category lang="en">Comedy</category>
-    <icon src="http://dshm.tmsimg.com/assets/p31278894_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p31278894_b_h8_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S25 E37</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -2139,7 +2139,7 @@
     <category lang="en">Talk</category>
     <category lang="en">News</category>
     <category lang="en">Interview</category>
-    <icon src="http://dshm.tmsimg.com/assets/p184465_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p184465_b_h8_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E235</episode-num>
     <premiere lang="en" />
   </programme>
@@ -2154,7 +2154,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Community</category>
-    <icon src="http://dshm.tmsimg.com/assets/p32134555_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p32134555_b_h10_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E115</episode-num>
     <previously-shown />
     <rating system="USA Parental Rating">
@@ -2174,7 +2174,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Newsmagazine</category>
-    <icon src="http://dshm.tmsimg.com/assets/p26187800_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p26187800_b_h10_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S1 E45</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -2197,7 +2197,7 @@
     <date>2024</date>
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
-    <icon src="http://dshm.tmsimg.com/assets/p15528404_b_h8_av.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p15528404_b_h8_av.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S6 E8</episode-num>
     <previously-shown />
     <rating system="USA Parental Rating">
@@ -2232,7 +2232,7 @@
     <date>2024</date>
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
-    <icon src="http://dshm.tmsimg.com/assets/p15528404_b_h8_av.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p15528404_b_h8_av.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S7 E3</episode-num>
     <previously-shown />
     <rating system="USA Parental Rating">
@@ -2257,7 +2257,7 @@
   <programme channel="WHNS-DT.us_locals1" start="20261114080000 +0000" stop="20261114083000 +0000">
     <title lang="en">Palmetto Sports Daily</title>
     <date>2025</date>
-    <icon src="http://dshm.tmsimg.com/assets/p29357982_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p29357982_b_h8_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261114083000 +0000" stop="20261114090000 +0000">
@@ -2265,7 +2265,7 @@
     <desc lang="en">Local, national and international news coverage.</desc>
     <date>2012</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p9189172_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p9189172_b_h10_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261114090000 +0000" stop="20261114093000 +0000">
@@ -2273,7 +2273,7 @@
     <desc lang="en">Hosts Eric Smart and Chris Reader take you on an off-road adventure, making the off-road and overland trucks and SUVs.</desc>
     <date>2025</date>
     <category lang="en">Motorsports</category>
-    <icon src="http://dshm.tmsimg.com/assets/p30774559_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p30774559_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
     <rating system="USA Parental Rating">
       <value>TVG</value>
@@ -2295,7 +2295,7 @@
     <date>2021</date>
     <category lang="en">Auto</category>
     <category lang="en">How-to</category>
-    <icon src="http://dshm.tmsimg.com/assets/p19311934_b_h11_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p19311934_b_h11_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
     <rating system="USA Parental Rating">
       <value>TVG</value>
@@ -2317,7 +2317,7 @@
     <category lang="en">Auto</category>
     <category lang="en">Competition Reality</category>
     <category lang="en">Reality</category>
-    <icon src="http://dshm.tmsimg.com/assets/p26465689_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p26465689_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261114103000 +0000" stop="20261114110000 +0000">
@@ -2326,7 +2326,7 @@
     <date>2026</date>
     <category lang="en">Auto</category>
     <category lang="en">How-to</category>
-    <icon src="http://dshm.tmsimg.com/assets/p32564268_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p32564268_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261114110000 +0000" stop="20261114113000 +0000">
@@ -2340,7 +2340,7 @@
     <category lang="en">Newsmagazine</category>
     <category lang="en">Animals</category>
     <category lang="en">Educational</category>
-    <icon src="http://dshm.tmsimg.com/assets/p369178_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p369178_b_h8_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S10 E6</episode-num>
     <previously-shown />
     <rating system="USA Parental Rating">
@@ -2365,7 +2365,7 @@
     <category lang="en">Animals</category>
     <category lang="en">Pets</category>
     <category lang="en">Educational</category>
-    <icon src="http://dshm.tmsimg.com/assets/p331133_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p331133_b_h10_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S21 E8</episode-num>
     <previously-shown />
     <rating system="USA Parental Rating">
@@ -2389,7 +2389,7 @@
     <date>2008</date>
     <category lang="en">Children</category>
     <category lang="en">Educational</category>
-    <icon src="http://dshm.tmsimg.com/assets/p341590_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p341590_b_h10_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
     <rating system="USA Parental Rating">
       <value>TVG</value>
@@ -2408,7 +2408,7 @@
     <date>2011</date>
     <category lang="en">Series</category>
     <category lang="en">Educational</category>
-    <icon src="http://dshm.tmsimg.com/assets/p9389159_b_h8_ad.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p9389159_b_h8_ad.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E8</episode-num>
     <previously-shown />
     <rating system="USA Parental Rating">
@@ -2425,21 +2425,21 @@
     <title lang="en">Looking for a Medicare plan? Tune in now!</title>
     <desc lang="en">The Medicare annual election period ends on December 7th. Watch and learn about Humana Medicare Advantage plans.</desc>
     <category lang="en">Consumer</category>
-    <icon src="http://dshm.tmsimg.com/assets/p7855567_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p7855567_b_h8_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261114133000 +0000" stop="20261114140000 +0000">
     <title lang="en">An Aetna Medicare Advantage plan might be right for you</title>
     <desc lang="en">When it comes to Medicare coverage, there are a lot of options. Learn about your choices so that you can select the coverage that's right for you. Call to speak with a licensed Aetna agent today.</desc>
     <category lang="en">Consumer</category>
-    <icon src="http://dshm.tmsimg.com/assets/p31315097_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p31315097_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261114140000 +0000" stop="20261114143000 +0000">
     <title lang="en">Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.</title>
     <desc lang="en">Trusted brand Jacuzzi Bath Remodel and interior designer Christina Hall share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe, stylish space in 1 day! Call for a FREE quote &amp; installation.</desc>
     <category lang="en">Consumer</category>
-    <icon src="http://dshm.tmsimg.com/assets/p30074472_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p30074472_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261114143000 +0000" stop="20261114150000 +0000">
@@ -2447,7 +2447,7 @@
     <desc lang="en">Palmetto Life explores food, lifestyle, things to do, and local businesses in the Lowcountry.</desc>
     <date>2023</date>
     <category lang="en">Community</category>
-    <icon src="http://dshm.tmsimg.com/assets/p25549131_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p25549131_b_h10_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261114150000 +0000" stop="20261114170000 +0000">
@@ -2461,7 +2461,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Football</category>
-    <icon src="http://dshm.tmsimg.com/assets/p17245398_b_h8_ao.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p17245398_b_h8_ao.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E11</episode-num>
     <premiere lang="en" />
   </programme>
@@ -2470,7 +2470,7 @@
     <desc lang="en">The No. 20 Ohio State Buckeyes (6-3, 4-2 Big Ten) host the Northwestern Wildcats (6-3, 3-3 Big Ten) at Ohio Stadium. Both teams aim to break a two-game skid. Northwestern relies on Aidan Chiles, while Ohio State looks to Julian Sayin.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <icon src="http://dshm.tmsimg.com/assets/GNLZZGG00371YSE.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG00371YSE.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261114203000 +0000" stop="20261115000000 +0000">
@@ -2478,7 +2478,7 @@
     <desc lang="en">The No. 10 BYU Cougars (7-2) host the Baylor Bears (6-3) at LaVell Edwards Stadium in Provo for a Big 12 test. Baylor enters on a two-game win streak and beat Iowa State, 42-31, in Week 10, while BYU fell, 28-20, to Utah and relies on Bear Bachmeier.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <icon src="http://dshm.tmsimg.com/assets/GNLZZGG00371EH4.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG00371EH4.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261115000000 +0000" stop="20261115003000 +0000">
@@ -2493,7 +2493,7 @@
     <category lang="en">Series</category>
     <category lang="en">Sports talk</category>
     <category lang="en">Football</category>
-    <icon src="http://dshm.tmsimg.com/assets/p10951070_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p10951070_b_h8_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S11 E3</episode-num>
     <premiere lang="en" />
   </programme>
@@ -2502,7 +2502,7 @@
     <desc lang="en">The No. 2 Utes (9-0, 6-0 Big 12) seek their first 10-0 start since 2008 as they visit the No. 23 Wildcats (7-2, 4-2). Utah comes off a 28-20 triumph over rival BYU. Arizona has won seven straight at home following a 29-28 victory over TCU last week.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <icon src="http://dshm.tmsimg.com/assets/GNLZZGG003728WG.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003728WG.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261115040000 +0000" stop="20261115043000 +0000">
@@ -2510,7 +2510,7 @@
     <desc lang="en">Local, national and international news coverage.</desc>
     <date>2012</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p9189172_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p9189172_b_h10_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261115043000 +0000" stop="20261115053000 +0000">
@@ -2524,7 +2524,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Game show</category>
-    <icon src="http://dshm.tmsimg.com/assets/p33611050_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p33611050_b_h8_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S2 E1</episode-num>
     <previously-shown />
     <rating system="Canadian Parental Rating">
@@ -2540,7 +2540,7 @@
     <date>2020</date>
     <category lang="en">Music</category>
     <category lang="en">Country</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23679129_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p23679129_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
     <rating system="USA Parental Rating">
       <value>TVG</value>
@@ -2561,7 +2561,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Newsmagazine</category>
-    <icon src="http://dshm.tmsimg.com/assets/p34032346_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p34032346_b_h8_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S2 E2</episode-num>
     <previously-shown />
     <rating system="USA Parental Rating">
@@ -2584,7 +2584,7 @@
     <date>2024</date>
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
-    <icon src="http://dshm.tmsimg.com/assets/p15528404_b_h8_av.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p15528404_b_h8_av.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S6 E8</episode-num>
     <previously-shown />
     <rating system="USA Parental Rating">
@@ -2616,7 +2616,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Music</category>
-    <icon src="http://dshm.tmsimg.com/assets/p17696385_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p17696385_b_h8_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S7 E8</episode-num>
     <previously-shown />
     <rating system="USA Parental Rating">
@@ -2633,28 +2633,28 @@
     <title lang="en">Looking for a Medicare plan? Tune in now!</title>
     <desc lang="en">The Medicare annual election period ends on December 7th. Watch and learn about Humana Medicare Advantage plans.</desc>
     <category lang="en">Consumer</category>
-    <icon src="http://dshm.tmsimg.com/assets/p7855567_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p7855567_b_h8_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261115083000 +0000" stop="20261115090000 +0000">
     <title lang="en">An Aetna Medicare Advantage plan might be right for you</title>
     <desc lang="en">When it comes to Medicare coverage, there are a lot of options. Learn about your choices so that you can select the coverage that's right for you. Call to speak with a licensed Aetna agent today.</desc>
     <category lang="en">Consumer</category>
-    <icon src="http://dshm.tmsimg.com/assets/p31315097_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p31315097_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261115090000 +0000" stop="20261115093000 +0000">
     <title lang="en">Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.</title>
     <desc lang="en">Trusted brand Jacuzzi Bath Remodel and interior designer Christina Hall share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe, stylish space in 1 day! Call for a FREE quote &amp; installation.</desc>
     <category lang="en">Consumer</category>
-    <icon src="http://dshm.tmsimg.com/assets/p30074472_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p30074472_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261115093000 +0000" stop="20261115100000 +0000">
     <title lang="en">Looking for a Medicare plan? Tune in now!</title>
     <desc lang="en">The Medicare annual election period ends on December 7th. Watch and learn about Humana Medicare Advantage plans.</desc>
     <category lang="en">Consumer</category>
-    <icon src="http://dshm.tmsimg.com/assets/p7855567_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p7855567_b_h8_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261115100000 +0000" stop="20261115103000 +0000">
@@ -2663,7 +2663,7 @@
     <category lang="en">Consumer</category>
     <category lang="en">Shopping</category>
     <category lang="en">Variety</category>
-    <icon src="http://dshm.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
     <previously-shown />
     <rating system="USA Parental Rating">
       <value>TVG</value>
@@ -2693,7 +2693,7 @@
     <category lang="en">Consumer</category>
     <category lang="en">Shopping</category>
     <category lang="en">Variety</category>
-    <icon src="http://dshm.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
     <previously-shown />
     <rating system="USA Parental Rating">
       <value>TVG</value>
@@ -2723,7 +2723,7 @@
     <category lang="en">Consumer</category>
     <category lang="en">Shopping</category>
     <category lang="en">Variety</category>
-    <icon src="http://dshm.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
     <previously-shown />
     <rating system="USA Parental Rating">
       <value>TVG</value>
@@ -2753,7 +2753,7 @@
     <category lang="en">Consumer</category>
     <category lang="en">Shopping</category>
     <category lang="en">Variety</category>
-    <icon src="http://dshm.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
     <previously-shown />
     <rating system="USA Parental Rating">
       <value>TVG</value>
@@ -2783,7 +2783,7 @@
     <category lang="en">Consumer</category>
     <category lang="en">Shopping</category>
     <category lang="en">Variety</category>
-    <icon src="http://dshm.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
     <previously-shown />
     <rating system="USA Parental Rating">
       <value>TVG</value>
@@ -2813,7 +2813,7 @@
     <category lang="en">Consumer</category>
     <category lang="en">Shopping</category>
     <category lang="en">Variety</category>
-    <icon src="http://dshm.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
     <previously-shown />
     <rating system="USA Parental Rating">
       <value>TVG</value>
@@ -2849,7 +2849,7 @@
     <category lang="en">News</category>
     <category lang="en">Public affairs</category>
     <category lang="en">Politics</category>
-    <icon src="http://dshm.tmsimg.com/assets/p21244589_b_h8_ae.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p21244589_b_h8_ae.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E46</episode-num>
     <premiere lang="en" />
   </programme>
@@ -2863,7 +2863,7 @@
     </credits>
     <date>1996</date>
     <category lang="en">Football</category>
-    <icon src="http://dshm.tmsimg.com/assets/p236740_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p236740_b_h8_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
@@ -2877,7 +2877,7 @@
     <desc lang="en">The Detroit Lions face the New England Patriots in an NFL regular-season game at Allianz Arena in Munich, Germany. Detroit arrives at 6-2 on a four-game winning streak, while New England enters at 5-4 after a 45-27 home loss to the Green Bay Packers.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <icon src="http://dshm.tmsimg.com/assets/GNLZZGG0039LYNK.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0039LYNK.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261115173000 +0000" stop="20261115180000 +0000">
@@ -2892,7 +2892,7 @@
     <category lang="en">Series</category>
     <category lang="en">Sports talk</category>
     <category lang="en">Football</category>
-    <icon src="http://dshm.tmsimg.com/assets/p185933_b_h8_aj.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p185933_b_h8_aj.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E11</episode-num>
     <premiere lang="en" />
   </programme>
@@ -2901,7 +2901,7 @@
     <desc lang="en">The New Orleans Saints host the Carolina Panthers in NFL regular-season play at Caesars Superdome. Both sides sit at 3-5 in the NFC South, with New Orleans coming off a one-point win over Cleveland and Carolina dropping a 26-21 decision to Denver.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <icon src="http://dshm.tmsimg.com/assets/GNLZZGG0039LGGE.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0039LGGE.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261115212500 +0000" stop="20261116003000 +0000">
@@ -2909,7 +2909,7 @@
     <desc lang="en">The Dallas Cowboys host the San Francisco 49ers in NFL regular-season play at AT&amp;T Stadium. San Francisco is tied with Buffalo for the league's best record at 7-1, while Dallas would love to even its record at 5-5 with an upset victory.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <icon src="http://dshm.tmsimg.com/assets/GNLZZGG0039LGL5.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0039LGL5.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261116003000 +0000" stop="20261116010000 +0000">
@@ -2923,7 +2923,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Football</category>
-    <icon src="http://dshm.tmsimg.com/assets/p301704_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p301704_b_h8_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E3</episode-num>
     <premiere lang="en" />
   </programme>
@@ -2940,7 +2940,7 @@
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
     <category lang="en">Animals</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23199865_b_h8_ak.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p23199865_b_h8_ak.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S5 E7</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -2969,7 +2969,7 @@
     <category lang="en">Series</category>
     <category lang="en">Animated</category>
     <category lang="en">Sitcom</category>
-    <icon src="http://dshm.tmsimg.com/assets/p33611093_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p33611093_b_h8_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S38 E7</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -3025,7 +3025,7 @@
     <category lang="en">Series</category>
     <category lang="en">Animated</category>
     <category lang="en">Sitcom</category>
-    <icon src="http://dshm.tmsimg.com/assets/p33611124_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p33611124_b_h8_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S3 E7</episode-num>
     <premiere lang="en" />
     <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
@@ -3054,7 +3054,7 @@
     <category lang="en">Series</category>
     <category lang="en">Animated</category>
     <category lang="en">Sitcom</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22196707_b_h8_ae.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p22196707_b_h8_ae.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S3 E7</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -3075,7 +3075,7 @@
     <desc lang="en">Local and regional news coverage.</desc>
     <date>2008</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p692647_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p692647_b_h10_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261116040000 +0000" stop="20261116043000 +0000">
@@ -3091,7 +3091,7 @@
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
     <category lang="en">Animals</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23199865_b_h8_ak.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p23199865_b_h8_ak.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S5 E7</episode-num>
     <previously-shown />
     <rating system="USA Parental Rating">
@@ -3120,7 +3120,7 @@
     <category lang="en">Series</category>
     <category lang="en">Animated</category>
     <category lang="en">Sitcom</category>
-    <icon src="http://dshm.tmsimg.com/assets/p33611093_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p33611093_b_h8_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S38 E7</episode-num>
     <previously-shown />
     <rating system="USA Parental Rating">
@@ -3174,7 +3174,7 @@
     <category lang="en">Series</category>
     <category lang="en">Newsmagazine</category>
     <category lang="en">Public affairs</category>
-    <icon src="http://dshm.tmsimg.com/assets/p28166441_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p28166441_b_h10_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S6 E1</episode-num>
     <previously-shown />
     <rating system="USA Parental Rating">
@@ -3190,7 +3190,7 @@
     <category lang="en">Consumer</category>
     <category lang="en">Shopping</category>
     <category lang="en">Variety</category>
-    <icon src="http://dshm.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
     <previously-shown />
     <rating system="USA Parental Rating">
       <value>TVG</value>
@@ -3220,7 +3220,7 @@
     <category lang="en">Consumer</category>
     <category lang="en">Shopping</category>
     <category lang="en">Variety</category>
-    <icon src="http://dshm.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
     <previously-shown />
     <rating system="USA Parental Rating">
       <value>TVG</value>
@@ -3250,7 +3250,7 @@
     <category lang="en">Consumer</category>
     <category lang="en">Shopping</category>
     <category lang="en">Variety</category>
-    <icon src="http://dshm.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
     <previously-shown />
     <rating system="USA Parental Rating">
       <value>TVG</value>
@@ -3286,7 +3286,7 @@
     <category lang="en">Series</category>
     <category lang="en">Sports talk</category>
     <category lang="en">Interview</category>
-    <icon src="http://dshm.tmsimg.com/assets/p17167704_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p17167704_b_h8_ac.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S8 E11</episode-num>
     <premiere lang="en" />
   </programme>
@@ -3295,7 +3295,7 @@
     <desc lang="en">Parkour and Ninja Warrior athletes compete against each other in high-level action matches of tag during international tournaments.</desc>
     <date>2022</date>
     <category lang="en">Competition Reality</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22445479_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p22445479_b_h10_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
@@ -3310,7 +3310,7 @@
     <date>2022</date>
     <category lang="en">Interview</category>
     <category lang="en">Football</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22500434_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p22500434_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261116090000 +0000" stop="20261116093000 +0000">
@@ -3322,7 +3322,7 @@
     </credits>
     <category lang="en">News</category>
     <category lang="en">Agriculture</category>
-    <icon src="http://dshm.tmsimg.com/assets/p325642_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p325642_b_h10_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
     <rating system="USA Parental Rating">
       <value>TVG</value>
@@ -3339,7 +3339,7 @@
     <desc lang="en">News coverage to start the day.</desc>
     <date>2017</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p14483177_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p14483177_b_h10_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261116100000 +0000" stop="20261116110000 +0000">
@@ -3347,7 +3347,7 @@
     <desc lang="en">News coverage to start the day.</desc>
     <date>2006</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p808402_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p808402_b_h10_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261116110000 +0000" stop="20261116120000 +0000">
@@ -3355,7 +3355,7 @@
     <desc lang="en">News coverage to start the day.</desc>
     <date>2006</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p808403_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p808403_b_h10_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261116120000 +0000" stop="20261116130000 +0000">
@@ -3363,7 +3363,7 @@
     <desc lang="en">News coverage.</desc>
     <date>2006</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p808404_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p808404_b_h10_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261116130000 +0000" stop="20261116140000 +0000">
@@ -3371,7 +3371,7 @@
     <desc lang="en">News coverage to start the day.</desc>
     <date>2010</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p8049482_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p8049482_b_h10_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261116140000 +0000" stop="20261116150000 +0000">
@@ -3379,7 +3379,7 @@
     <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
     <date>2021</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p20731746_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p20731746_b_h10_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261116150000 +0000" stop="20261116160000 +0000">
@@ -3388,7 +3388,7 @@
     <date>2022</date>
     <category lang="en">Talk</category>
     <category lang="en">Community</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22825157_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p22825157_b_h8_ab.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261116160000 +0000" stop="20261116170000 +0000">
@@ -3396,7 +3396,7 @@
     <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
     <date>2023</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23662314_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p23662314_b_h10_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261116170000 +0000" stop="20261116180000 +0000">
@@ -3405,7 +3405,7 @@
     <date>2022</date>
     <category lang="en">Talk</category>
     <category lang="en">Community</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22825157_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p22825157_b_h8_ab.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261116180000 +0000" stop="20261116190000 +0000">
@@ -3413,7 +3413,7 @@
     <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
     <date>2023</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23662314_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p23662314_b_h10_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261116190000 +0000" stop="20261116193000 +0000">
@@ -3427,7 +3427,7 @@
     <category lang="en">Series</category>
     <category lang="en">Reality</category>
     <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22620703_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p22620703_b_h10_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E92</episode-num>
     <previously-shown />
     <rating system="USA Parental Rating">
@@ -3447,7 +3447,7 @@
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
     <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p27919637_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p27919637_b_h10_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S2 E62</episode-num>
     <previously-shown />
     <rating system="USA Parental Rating">
@@ -3468,7 +3468,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Community</category>
-    <icon src="http://dshm.tmsimg.com/assets/p32134555_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p32134555_b_h10_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E116</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -3489,7 +3489,7 @@
     <category lang="en">Series</category>
     <category lang="en">Newsmagazine</category>
     <category lang="en">Public affairs</category>
-    <icon src="http://dshm.tmsimg.com/assets/p25440878_b_h10_ad.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p25440878_b_h10_ad.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S4 E46</episode-num>
     <premiere lang="en" />
     <rating system="Régie du cinéma">
@@ -3507,7 +3507,7 @@
     <desc lang="en">Local and regional news coverage.</desc>
     <date>2014</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11134899_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p11134899_b_h10_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261116220000 +0000" stop="20261116230000 +0000">
@@ -3515,7 +3515,7 @@
     <desc lang="en">Local and regional news coverage.</desc>
     <date>2017</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p14483263_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p14483263_b_h10_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261116230000 +0000" stop="20261117000000 +0000">
@@ -3523,20 +3523,20 @@
     <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
     <date>2020</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p18963534_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p18963534_b_h10_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261117000000 +0000" stop="20261117003000 +0000">
     <title lang="en">Clemson All-Access with Dabo Swinney</title>
     <date>2024</date>
     <category lang="en">Football</category>
-    <icon src="http://dshm.tmsimg.com/assets/p28156094_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p28156094_b_h8_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261117003000 +0000" stop="20261117010000 +0000">
     <title lang="en">Clemson+ Sports: Beyond the Paw Podcast</title>
     <date>2026</date>
-    <icon src="http://dshm.tmsimg.com/assets/p33068427_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p33068427_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261117010000 +0000" stop="20261117020100 +0000">
@@ -3551,7 +3551,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Game show</category>
-    <icon src="http://dshm.tmsimg.com/assets/p19115550_b_h8_an.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p19115550_b_h8_an.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S6 E8</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -3573,7 +3573,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Game show</category>
-    <icon src="http://dshm.tmsimg.com/assets/p30817754_b_h8_ae.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p30817754_b_h8_ae.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S2 E8</episode-num>
     <premiere lang="en" />
     <rating system="Canadian Parental Rating">
@@ -3588,7 +3588,7 @@
     <desc lang="en">Local and regional news coverage.</desc>
     <date>2008</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p692647_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p692647_b_h10_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261117040000 +0000" stop="20261117043000 +0000">
@@ -3596,13 +3596,13 @@
     <desc lang="en">Local, national and international news coverage.</desc>
     <date>2012</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p9189172_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p9189172_b_h10_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261117043000 +0000" stop="20261117050000 +0000">
     <title lang="en">Palmetto Sports Daily</title>
     <date>2025</date>
-    <icon src="http://dshm.tmsimg.com/assets/p29357982_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p29357982_b_h8_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261117050000 +0000" stop="20261117053000 +0000">
@@ -3614,7 +3614,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p33800854_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p33800854_b_h8_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S1 E55</episode-num>
     <premiere lang="en" />
   </programme>
@@ -3630,7 +3630,7 @@
     <category lang="en">Series</category>
     <category lang="en">Sports talk</category>
     <category lang="en">Interview</category>
-    <icon src="http://dshm.tmsimg.com/assets/p8178298_b_h8_ad.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p8178298_b_h8_ad.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S17 E7</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -3651,7 +3651,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Community</category>
-    <icon src="http://dshm.tmsimg.com/assets/p32134555_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p32134555_b_h10_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E116</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -3671,7 +3671,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Newsmagazine</category>
-    <icon src="http://dshm.tmsimg.com/assets/p26187800_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p26187800_b_h10_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S1 E46</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -3694,7 +3694,7 @@
     <date>2024</date>
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
-    <icon src="http://dshm.tmsimg.com/assets/p15528404_b_h8_av.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p15528404_b_h8_av.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S7 E6</episode-num>
     <previously-shown />
     <rating system="USA Parental Rating">
@@ -3729,7 +3729,7 @@
     <date>2025</date>
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
-    <icon src="http://dshm.tmsimg.com/assets/p15528404_b_h8_av.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p15528404_b_h8_av.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S7 E12</episode-num>
     <previously-shown />
     <rating system="Canadian Parental Rating">
@@ -3756,7 +3756,7 @@
     <desc lang="en">Local and regional news coverage.</desc>
     <date>2008</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p692647_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p692647_b_h10_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261117090000 +0000" stop="20261117093000 +0000">
@@ -3768,7 +3768,7 @@
     </credits>
     <category lang="en">News</category>
     <category lang="en">Agriculture</category>
-    <icon src="http://dshm.tmsimg.com/assets/p325642_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p325642_b_h10_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
     <rating system="USA Parental Rating">
       <value>TVG</value>
@@ -3785,7 +3785,7 @@
     <desc lang="en">News coverage to start the day.</desc>
     <date>2017</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p14483177_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p14483177_b_h10_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261117100000 +0000" stop="20261117110000 +0000">
@@ -3793,7 +3793,7 @@
     <desc lang="en">News coverage to start the day.</desc>
     <date>2006</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p808402_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p808402_b_h10_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261117110000 +0000" stop="20261117120000 +0000">
@@ -3801,7 +3801,7 @@
     <desc lang="en">News coverage to start the day.</desc>
     <date>2006</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p808403_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p808403_b_h10_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261117120000 +0000" stop="20261117130000 +0000">
@@ -3809,7 +3809,7 @@
     <desc lang="en">News coverage.</desc>
     <date>2006</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p808404_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p808404_b_h10_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261117130000 +0000" stop="20261117140000 +0000">
@@ -3817,7 +3817,7 @@
     <desc lang="en">News coverage to start the day.</desc>
     <date>2010</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p8049482_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p8049482_b_h10_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261117140000 +0000" stop="20261117150000 +0000">
@@ -3825,7 +3825,7 @@
     <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
     <date>2021</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p20731746_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p20731746_b_h10_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261117150000 +0000" stop="20261117160000 +0000">
@@ -3834,13 +3834,13 @@
     <date>2022</date>
     <category lang="en">Talk</category>
     <category lang="en">Community</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22825157_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p22825157_b_h8_ab.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261117160000 +0000" stop="20261117170000 +0000">
     <title lang="en">Clemson Dabo Swinney Press Conference</title>
     <date>2025</date>
-    <icon src="http://dshm.tmsimg.com/assets/p30953423_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p30953423_b_h8_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261117170000 +0000" stop="20261117180000 +0000">
@@ -3848,7 +3848,7 @@
     <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
     <date>2023</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23662314_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p23662314_b_h10_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261117180000 +0000" stop="20261117190000 +0000">
@@ -3856,7 +3856,7 @@
     <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
     <date>2023</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23662314_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p23662314_b_h10_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261117190000 +0000" stop="20261117193000 +0000">
@@ -3870,7 +3870,7 @@
     <category lang="en">Series</category>
     <category lang="en">Reality</category>
     <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22620703_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p22620703_b_h10_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E91</episode-num>
     <previously-shown />
     <rating system="USA Parental Rating">
@@ -3890,7 +3890,7 @@
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
     <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p27919637_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p27919637_b_h10_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S2 E50</episode-num>
     <previously-shown />
     <rating system="USA Parental Rating">
@@ -3911,7 +3911,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Community</category>
-    <icon src="http://dshm.tmsimg.com/assets/p32134555_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p32134555_b_h10_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E117</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -3932,7 +3932,7 @@
     <category lang="en">Series</category>
     <category lang="en">Newsmagazine</category>
     <category lang="en">Public affairs</category>
-    <icon src="http://dshm.tmsimg.com/assets/p25440878_b_h10_ad.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p25440878_b_h10_ad.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S4 E47</episode-num>
     <premiere lang="en" />
     <rating system="Régie du cinéma">
@@ -3950,7 +3950,7 @@
     <desc lang="en">Local and regional news coverage.</desc>
     <date>2014</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11134899_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p11134899_b_h10_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261117220000 +0000" stop="20261117230000 +0000">
@@ -3958,7 +3958,7 @@
     <desc lang="en">Local and regional news coverage.</desc>
     <date>2017</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p14483263_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p14483263_b_h10_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261117230000 +0000" stop="20261118000000 +0000">
@@ -3966,7 +3966,7 @@
     <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
     <date>2020</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p18963534_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p18963534_b_h10_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261118000000 +0000" stop="20261118010000 +0000">
@@ -3974,7 +3974,7 @@
     <desc lang="en">Stay informed with the latest breaking news and headlines.</desc>
     <date>2026</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p34161839_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p34161839_b_h8_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261118010000 +0000" stop="20261118020000 +0000">
@@ -3990,7 +3990,7 @@
     <category lang="en">Series</category>
     <category lang="en">Comedy drama</category>
     <category lang="en">Medical</category>
-    <icon src="http://dshm.tmsimg.com/assets/p33611027_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p33611027_b_h8_ac.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S2 E8</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -4016,7 +4016,7 @@
     <category lang="en">Series</category>
     <category lang="en">Drama</category>
     <category lang="en">Medical</category>
-    <icon src="http://dshm.tmsimg.com/assets/p33611039_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p33611039_b_h8_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S3 E8</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -4043,7 +4043,7 @@
     <desc lang="en">Local and regional news coverage.</desc>
     <date>2008</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p692647_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p692647_b_h10_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261118040000 +0000" stop="20261118043000 +0000">
@@ -4051,13 +4051,13 @@
     <desc lang="en">Local, national and international news coverage.</desc>
     <date>2012</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p9189172_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p9189172_b_h10_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261118043000 +0000" stop="20261118050000 +0000">
     <title lang="en">Palmetto Sports Daily</title>
     <date>2025</date>
-    <icon src="http://dshm.tmsimg.com/assets/p29357982_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p29357982_b_h8_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WHNS-DT.us_locals1" start="20261118050000 +0000" stop="20261118053000 +0000">
@@ -4069,7 +4069,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p33800854_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p33800854_b_h8_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S1 E56</episode-num>
     <premiere lang="en" />
   </programme>
@@ -4085,7 +4085,7 @@
     <category lang="en">Series</category>
     <category lang="en">Sports talk</category>
     <category lang="en">Interview</category>
-    <icon src="http://dshm.tmsimg.com/assets/p8178298_b_h8_ad.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p8178298_b_h8_ad.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S17 E7</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -4107,7 +4107,7 @@
     <category lang="en">Series</category>
     <category lang="en">Game show</category>
     <category lang="en">Comedy</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13115825_b_h10_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p13115825_b_h10_ac.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S10 E11</episode-num>
     <previously-shown />
     <rating system="Canadian Parental Rating">
@@ -4127,7 +4127,7 @@
     <category lang="en">Series</category>
     <category lang="en">Game show</category>
     <category lang="en">Comedy</category>
-    <icon src="http://dshm.tmsimg.com/assets/p28608175_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p28608175_b_h10_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S9 E12</episode-num>
     <previously-shown />
     <rating system="Canadian Parental Rating">
@@ -4150,7 +4150,7 @@
     <category lang="en">Series</category>
     <category lang="en">Game show</category>
     <category lang="en">Comedy</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13115825_b_h10_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p13115825_b_h10_ac.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S10 E12</episode-num>
     <previously-shown />
     <rating system="Canadian Parental Rating">
@@ -4173,7 +4173,7 @@
     <category lang="en">Series</category>
     <category lang="en">Newsmagazine</category>
     <category lang="en">Documentary</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13159645_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p13159645_b_h10_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S7 E1</episode-num>
     <previously-shown />
     <rating system="Canadian Parental Rating">
@@ -4195,7 +4195,7 @@
     <category lang="en">Series</category>
     <category lang="en">Newsmagazine</category>
     <category lang="en">Documentary</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13159645_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p13159645_b_h10_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S3 E30</episode-num>
     <previously-shown />
     <rating system="USA Parental Rating">
@@ -4215,7 +4215,7 @@
     <date>2024</date>
     <category lang="en">Series</category>
     <category lang="en">Nature</category>
-    <icon src="http://dshm.tmsimg.com/assets/p27396756_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p27396756_b_h10_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S4 E5</episode-num>
     <previously-shown />
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
@@ -4236,7 +4236,7 @@
     <desc lang="en">Weekend news coverage.</desc>
     <date>2008</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p986958_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p986958_b_h8_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261114110000 +0000" stop="20261114120000 +0000">
@@ -4244,7 +4244,7 @@
     <desc lang="en">News coverage to start the day.</desc>
     <date>2002</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p986965_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p986965_b_h8_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261114120000 +0000" stop="20261114123000 +0000">
@@ -4260,7 +4260,7 @@
     <category lang="en">Reality</category>
     <category lang="en">Animals</category>
     <category lang="en">Pets</category>
-    <icon src="http://dshm.tmsimg.com/assets/p10110361_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p10110361_b_h10_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S2 E7</episode-num>
     <previously-shown />
     <rating system="USA Parental Rating">
@@ -4285,7 +4285,7 @@
     <category lang="en">Reality</category>
     <category lang="en">Travel</category>
     <category lang="en">Animals</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13131337_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p13131337_b_h8_ac.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S1 E7</episode-num>
     <previously-shown />
     <rating system="USA Parental Rating">
@@ -4310,7 +4310,7 @@
     <category lang="en">Series</category>
     <category lang="en">Talk</category>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p20589876_b_h8_af.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p20589876_b_h8_af.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E46</episode-num>
     <premiere lang="en" />
   </programme>
@@ -4328,7 +4328,7 @@
     <category lang="en">Pets</category>
     <category lang="en">Docudrama</category>
     <category lang="en">Adventure</category>
-    <icon src="http://dshm.tmsimg.com/assets/p34174670_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p34174670_b_h8_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S1 E4</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -4353,7 +4353,7 @@
     <category lang="en">Animals</category>
     <category lang="en">Pets</category>
     <category lang="en">Reality</category>
-    <icon src="http://dshm.tmsimg.com/assets/p31052040_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p31052040_b_h8_ac.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S2 E7</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -4380,7 +4380,7 @@
     <category lang="en">Nature</category>
     <category lang="en">Animals</category>
     <category lang="en">Educational</category>
-    <icon src="http://dshm.tmsimg.com/assets/p15798724_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p15798724_b_h10_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S8 E7</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -4409,7 +4409,7 @@
     <category lang="en">Science</category>
     <category lang="en">Environment</category>
     <category lang="en">Educational</category>
-    <icon src="http://dshm.tmsimg.com/assets/p29721144_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p29721144_b_h10_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S3 E7</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -4425,7 +4425,7 @@
     <category lang="en">Sports</category>
     <category lang="en">Playoff sports</category>
     <category lang="en">Soccer</category>
-    <icon src="http://dshm.tmsimg.com/assets/p11962008_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p11962008_b_h8_ac.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261114193000 +0000" stop="20261114203000 +0000">
@@ -4438,7 +4438,7 @@
     </credits>
     <date>1997</date>
     <category lang="en">Football</category>
-    <icon src="http://dshm.tmsimg.com/assets/p221280_st_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p221280_st_h10_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
     <rating system="USA Parental Rating">
       <value>TV14</value>
@@ -4452,7 +4452,7 @@
     <desc lang="en">The No. 9 Indiana Hoosiers (8-1, 5-1 Big Ten) host the No. 18 USC Trojans (7-2, 4-2 Big Ten) at Memorial Stadium in Bloomington. USC enters after a 30-18 win against Ohio State, while Indiana aims for a three-game win streak behind Josh Hoover.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <icon src="http://dshm.tmsimg.com/assets/GNLZZGG00371W6B.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG00371W6B.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261115000000 +0000" stop="20261115003000 +0000">
@@ -4460,7 +4460,7 @@
     <desc lang="en">College football postgame.</desc>
     <date>1992</date>
     <category lang="en">Sports talk</category>
-    <icon src="http://dshm.tmsimg.com/assets/p860711_b_h8_ad.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p860711_b_h8_ad.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261115003000 +0000" stop="20261115010000 +0000">
@@ -4472,7 +4472,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Talk</category>
-    <icon src="http://dshm.tmsimg.com/assets/p186638_b_h10_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p186638_b_h10_ac.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S39 E9</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -4493,7 +4493,7 @@
     <date>2026</date>
     <category lang="en">Special</category>
     <category lang="en">Awards</category>
-    <icon src="http://dshm.tmsimg.com/assets/p32898499_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p32898499_b_h8_ac.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
@@ -4515,7 +4515,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
-    <icon src="http://dshm.tmsimg.com/assets/p33708732_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p33708732_b_h8_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <previously-shown />
     <rating system="Canadian Parental Rating">
@@ -4539,7 +4539,7 @@
     <category lang="en">Newsmagazine</category>
     <category lang="en">Crime</category>
     <category lang="en">Law</category>
-    <icon src="http://dshm.tmsimg.com/assets/p200944_b_h8_bb.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p200944_b_h8_bb.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S40 E6</episode-num>
     <premiere lang="en" />
     <rating system="Australian Classification Board">
@@ -4563,7 +4563,7 @@
     <desc lang="en">Local, national and international news coverage.</desc>
     <date>2002</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p986957_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p986957_b_h8_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261115043000 +0000" stop="20261115050000 +0000">
@@ -4578,7 +4578,7 @@
     <category lang="en">Series</category>
     <category lang="en">Sports talk</category>
     <category lang="en">Interview</category>
-    <icon src="http://dshm.tmsimg.com/assets/p17167704_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p17167704_b_h8_ac.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S8 E11</episode-num>
     <premiere lang="en" />
   </programme>
@@ -4595,7 +4595,7 @@
     <category lang="en">Series</category>
     <category lang="en">Newsmagazine</category>
     <category lang="en">Documentary</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13159645_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p13159645_b_h10_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S7 E1</episode-num>
     <previously-shown />
     <rating system="Canadian Parental Rating">
@@ -4617,7 +4617,7 @@
     <category lang="en">Series</category>
     <category lang="en">Newsmagazine</category>
     <category lang="en">Documentary</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13159645_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p13159645_b_h10_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S3 E30</episode-num>
     <previously-shown />
     <rating system="USA Parental Rating">
@@ -4640,7 +4640,7 @@
     <category lang="en">Series</category>
     <category lang="en">Newsmagazine</category>
     <category lang="en">Documentary</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13159645_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p13159645_b_h10_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S7 E2</episode-num>
     <previously-shown />
     <rating system="Canadian Parental Rating">
@@ -4663,7 +4663,7 @@
     <category lang="en">Series</category>
     <category lang="en">Weather</category>
     <category lang="en">Documentary</category>
-    <icon src="http://dshm.tmsimg.com/assets/p24233658_b_h10_af.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p24233658_b_h10_af.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S9 E9</episode-num>
     <previously-shown />
     <rating system="USA Parental Rating">
@@ -4687,7 +4687,7 @@
     <desc lang="en">Jenelle "J. Belle" Vannoy is living her dream as a radio DJ in Albuquerque. Kinga is here to help her discover her new city and some new adventures.</desc>
     <date>2023</date>
     <category lang="en">Community</category>
-    <icon src="http://dshm.tmsimg.com/assets/p26011333_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p26011333_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261115093000 +0000" stop="20261115100000 +0000">
@@ -4702,7 +4702,7 @@
     <category lang="en">How-to</category>
     <category lang="en">House/garden</category>
     <category lang="en">Home improvement</category>
-    <icon src="http://dshm.tmsimg.com/assets/p3575385_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p3575385_b_h10_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S19 E1</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -4717,7 +4717,7 @@
     <desc lang="en">News coverage to start the day.</desc>
     <date>2002</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p986961_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p986961_b_h8_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261115110000 +0000" stop="20261115120000 +0000">
@@ -4725,7 +4725,7 @@
     <desc lang="en">Weekend news coverage.</desc>
     <date>2006</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p986964_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p986964_b_h8_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261115120000 +0000" stop="20261115130000 +0000">
@@ -4733,7 +4733,7 @@
     <desc lang="en">Weekend news coverage.</desc>
     <date>2006</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p986970_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p986970_b_h8_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261115130000 +0000" stop="20261115133000 +0000">
@@ -4748,7 +4748,7 @@
     <category lang="en">How-to</category>
     <category lang="en">House/garden</category>
     <category lang="en">Home improvement</category>
-    <icon src="http://dshm.tmsimg.com/assets/p3575385_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p3575385_b_h10_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S19 E1</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -4770,7 +4770,7 @@
     <category lang="en">Series</category>
     <category lang="en">Sports talk</category>
     <category lang="en">Interview</category>
-    <icon src="http://dshm.tmsimg.com/assets/p17167704_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p17167704_b_h8_ac.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S8 E11</episode-num>
     <premiere lang="en" />
   </programme>
@@ -4786,7 +4786,7 @@
     <category lang="en">Series</category>
     <category lang="en">Talk</category>
     <category lang="en">Newsmagazine</category>
-    <icon src="http://dshm.tmsimg.com/assets/p185497_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p185497_b_h8_ac.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E45</episode-num>
     <premiere lang="en" />
   </programme>
@@ -4802,7 +4802,7 @@
     <category lang="en">News</category>
     <category lang="en">Public affairs</category>
     <category lang="en">Politics</category>
-    <icon src="http://dshm.tmsimg.com/assets/p184331_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p184331_b_h8_ac.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E46</episode-num>
     <premiere lang="en" />
   </programme>
@@ -4811,7 +4811,7 @@
     <desc lang="en">Watch retirement planning expert Stewart Willis as he educates and informs those in or near retirement.</desc>
     <date>2022</date>
     <category lang="en">Consumer</category>
-    <icon src="http://dshm.tmsimg.com/assets/p22677637_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p22677637_b_h8_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261115170000 +0000" stop="20261115180000 +0000">
@@ -4826,7 +4826,7 @@
     <category lang="en">Series</category>
     <category lang="en">Sports talk</category>
     <category lang="en">Football</category>
-    <icon src="http://dshm.tmsimg.com/assets/p185928_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p185928_b_h8_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E16</episode-num>
     <premiere lang="en" />
   </programme>
@@ -4835,7 +4835,7 @@
     <desc lang="en">The Atlanta Falcons host the Kansas City Chiefs in NFL regular-season play at Mercedes-Benz Stadium. Atlanta enters at 3-6 after four losses in its last five games, while Kansas City arrives at 6-2 following a 35-12 victory over the New York Jets.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <icon src="http://dshm.tmsimg.com/assets/GNLZZGG0039LXB2.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0039LXB2.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261115210000 +0000" stop="20261115213000 +0000">
@@ -4850,7 +4850,7 @@
     <category lang="en">Series</category>
     <category lang="en">Sports talk</category>
     <category lang="en">Football</category>
-    <icon src="http://dshm.tmsimg.com/assets/p267771_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p267771_b_h10_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E9</episode-num>
     <premiere lang="en" />
   </programme>
@@ -4866,7 +4866,7 @@
     <category lang="en">Series</category>
     <category lang="en">Sports talk</category>
     <category lang="en">Football</category>
-    <icon src="http://dshm.tmsimg.com/assets/p267771_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p267771_b_h10_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E9</episode-num>
     <premiere lang="en" />
   </programme>
@@ -4875,7 +4875,7 @@
     <desc lang="en">Heroic and courageous sports stories are profiled.</desc>
     <date>2023</date>
     <category lang="en">Special</category>
-    <icon src="http://dshm.tmsimg.com/assets/p25658104_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p25658104_b_h10_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261115230000 +0000" stop="20261115233000 +0000">
@@ -4883,7 +4883,7 @@
     <desc lang="en">Weekend news coverage.</desc>
     <date>2006</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p986964_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p986964_b_h8_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261115233000 +0000" stop="20261116000000 +0000">
@@ -4897,7 +4897,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E319</episode-num>
     <premiere lang="en" />
   </programme>
@@ -4912,7 +4912,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Newsmagazine</category>
-    <icon src="http://dshm.tmsimg.com/assets/p184224_b_h8_aq.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p184224_b_h8_aq.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S59 E9</episode-num>
     <premiere lang="en" />
   </programme>
@@ -4929,7 +4929,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Drama</category>
-    <icon src="http://dshm.tmsimg.com/assets/p33708668_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p33708668_b_h8_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S2 E6</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -4968,7 +4968,7 @@
     <category lang="en">Series</category>
     <category lang="en">Drama</category>
     <category lang="en">Crime drama</category>
-    <icon src="http://dshm.tmsimg.com/assets/p23665385_b_h8_al.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p23665385_b_h8_al.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S4 E6</episode-num>
     <premiere lang="en" />
     <rating system="Canadian Parental Rating">
@@ -5010,7 +5010,7 @@
     <category lang="en">Series</category>
     <category lang="en">Drama</category>
     <category lang="en">Law</category>
-    <icon src="http://dshm.tmsimg.com/assets/p32898304_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p32898304_b_h8_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S1 E5</episode-num>
     <previously-shown />
     <rating system="USA Parental Rating">
@@ -5025,7 +5025,7 @@
     <desc lang="en">Jenelle "J. Belle" Vannoy is living her dream as a radio DJ in Albuquerque. Kinga is here to help her discover her new city and some new adventures.</desc>
     <date>2023</date>
     <category lang="en">Community</category>
-    <icon src="http://dshm.tmsimg.com/assets/p26011333_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p26011333_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261116043000 +0000" stop="20261116050000 +0000">
@@ -5033,7 +5033,7 @@
     <desc lang="en">Local, national and international news coverage.</desc>
     <date>2002</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p986957_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p986957_b_h8_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261116050000 +0000" stop="20261116053000 +0000">
@@ -5041,7 +5041,7 @@
     <desc lang="en">Nighttime news coverage.</desc>
     <date>2016</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p12622883_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p12622883_b_h8_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261116053000 +0000" stop="20261116063000 +0000">
@@ -5056,7 +5056,7 @@
     <category lang="en">Series</category>
     <category lang="en">Newsmagazine</category>
     <category lang="en">Entertainment</category>
-    <icon src="http://dshm.tmsimg.com/assets/p184256_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p184256_b_h8_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S46 E54</episode-num>
     <premiere lang="en" />
     <rating system="Australian Classification Board">
@@ -5068,7 +5068,7 @@
     <desc lang="en">Jenelle "J. Belle" Vannoy is living her dream as a radio DJ in Albuquerque. Kinga is here to help her discover her new city and some new adventures.</desc>
     <date>2023</date>
     <category lang="en">Community</category>
-    <icon src="http://dshm.tmsimg.com/assets/p26011333_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p26011333_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261116070000 +0000" stop="20261116090000 +0000">
@@ -5076,7 +5076,7 @@
     <desc lang="en">The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.</desc>
     <date>2024</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p27490843_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p27490843_b_h8_ab.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261116090000 +0000" stop="20261116093000 +0000">
@@ -5084,7 +5084,7 @@
     <desc lang="en">CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
     <date>2024</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p27236437_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p27236437_b_h8_ab.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261116093000 +0000" stop="20261116100000 +0000">
@@ -5092,7 +5092,7 @@
     <desc lang="en">News coverage to start the day.</desc>
     <date>2010</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p8040946_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p8040946_b_h8_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261116100000 +0000" stop="20261116103000 +0000">
@@ -5100,7 +5100,7 @@
     <desc lang="en">News coverage to start the day.</desc>
     <date>2002</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p986961_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p986961_b_h8_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261116103000 +0000" stop="20261116110000 +0000">
@@ -5108,7 +5108,7 @@
     <desc lang="en">News coverage to start the day.</desc>
     <date>2002</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p986959_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p986959_b_h8_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261116110000 +0000" stop="20261116120000 +0000">
@@ -5116,7 +5116,7 @@
     <desc lang="en">News coverage to start the day.</desc>
     <date>2002</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p986965_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p986965_b_h8_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261116120000 +0000" stop="20261116140000 +0000">
@@ -5131,7 +5131,7 @@
     <category lang="en">Series</category>
     <category lang="en">Talk</category>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p20589677_b_h8_ak.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p20589677_b_h8_ak.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E229</episode-num>
     <premiere lang="en" />
   </programme>
@@ -5147,7 +5147,7 @@
     <category lang="en">Series</category>
     <category lang="en">Reality</category>
     <category lang="en">Law</category>
-    <icon src="http://dshm.tmsimg.com/assets/p10938248_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p10938248_b_h8_ab.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
@@ -5168,7 +5168,7 @@
     <category lang="en">Series</category>
     <category lang="en">Reality</category>
     <category lang="en">Law</category>
-    <icon src="http://dshm.tmsimg.com/assets/p10938248_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p10938248_b_h8_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
@@ -5186,7 +5186,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Game show</category>
-    <icon src="http://dshm.tmsimg.com/assets/p34083524_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p34083524_b_h8_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S18 E41</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -5205,7 +5205,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Game show</category>
-    <icon src="http://dshm.tmsimg.com/assets/p183911_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p183911_b_h8_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S55 E41</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -5224,7 +5224,7 @@
     <date>2025</date>
     <category lang="en">Documentary</category>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p31586882_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p31586882_b_h10_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261116173000 +0000" stop="20261116183000 +0000">
@@ -5238,7 +5238,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Soap</category>
-    <icon src="http://dshm.tmsimg.com/assets/p183904_b_h8_ai.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p183904_b_h8_ai.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S54 E28</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -5270,7 +5270,7 @@
     <category lang="en">Soap</category>
     <category lang="en">Drama</category>
     <category lang="en">Romance</category>
-    <icon src="http://dshm.tmsimg.com/assets/p183907_b_h10_ca.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p183907_b_h10_ca.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S40 E50</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -5310,7 +5310,7 @@
     <category lang="en">Series</category>
     <category lang="en">Soap</category>
     <category lang="en">Drama</category>
-    <icon src="http://dshm.tmsimg.com/assets/p28339808_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p28339808_b_h8_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S2 E211</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -5331,7 +5331,7 @@
     <category lang="en">Series</category>
     <category lang="en">Reality</category>
     <category lang="en">Law</category>
-    <icon src="http://dshm.tmsimg.com/assets/p25158475_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p25158475_b_h8_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S4 E45</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -5352,7 +5352,7 @@
     <category lang="en">Series</category>
     <category lang="en">Reality</category>
     <category lang="en">Law</category>
-    <icon src="http://dshm.tmsimg.com/assets/p25158475_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p25158475_b_h8_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S4 E46</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -5368,7 +5368,7 @@
     <date>2016</date>
     <category lang="en">News</category>
     <category lang="en">Documentary</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13101656_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p13101656_b_h8_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261116220000 +0000" stop="20261116223000 +0000">
@@ -5376,7 +5376,7 @@
     <desc lang="en">Early evening news.</desc>
     <date>2002</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p986962_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p986962_b_h8_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261116223000 +0000" stop="20261116230000 +0000">
@@ -5384,7 +5384,7 @@
     <desc lang="en">Early evening news.</desc>
     <date>2002</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p986960_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p986960_b_h8_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261116230000 +0000" stop="20261116233000 +0000">
@@ -5392,7 +5392,7 @@
     <desc lang="en">Early evening news.</desc>
     <date>2002</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p986966_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p986966_b_h8_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261116233000 +0000" stop="20261117000000 +0000">
@@ -5406,7 +5406,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E320</episode-num>
     <premiere lang="en" />
   </programme>
@@ -5415,7 +5415,7 @@
     <date>2026</date>
     <category lang="en">Special</category>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p33894031_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p33894031_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261117010000 +0000" stop="20261117020100 +0000">
@@ -5433,7 +5433,7 @@
     <category lang="en">Crime drama</category>
     <category lang="en">Action</category>
     <category lang="en">Thriller</category>
-    <icon src="http://dshm.tmsimg.com/assets/p33708678_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p33708678_b_h8_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S9 E7</episode-num>
     <premiere lang="en" />
     <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
@@ -5489,7 +5489,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Crime drama</category>
-    <icon src="http://dshm.tmsimg.com/assets/p33708682_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p33708682_b_h8_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S2 E7</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -5521,7 +5521,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Crime</category>
-    <icon src="http://dshm.tmsimg.com/assets/p33708686_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p33708686_b_h8_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S2 E7</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -5536,7 +5536,7 @@
     <desc lang="en">Local, national and international news coverage.</desc>
     <date>2002</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p986957_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p986957_b_h8_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261117043500 +0000" stop="20261117050500 +0000">
@@ -5551,7 +5551,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Comedy</category>
-    <icon src="http://dshm.tmsimg.com/assets/p186631_b_h8_ad.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p186631_b_h8_ad.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S4 E158</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -5573,7 +5573,7 @@
     <date>2025</date>
     <category lang="en">Series</category>
     <category lang="en">Comedy</category>
-    <icon src="http://dshm.tmsimg.com/assets/p186631_b_h8_ad.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p186631_b_h8_ad.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S4 E28</episode-num>
     <previously-shown />
     <rating system="USA Parental Rating">
@@ -5596,7 +5596,7 @@
     <category lang="en">Series</category>
     <category lang="en">Game show</category>
     <category lang="en">Comedy</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13115825_b_h10_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p13115825_b_h10_ac.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S10 E19</episode-num>
     <premiere lang="en" />
     <rating system="Canadian Parental Rating">
@@ -5617,7 +5617,7 @@
     <category lang="en">Series</category>
     <category lang="en">Game show</category>
     <category lang="en">Comedy</category>
-    <icon src="http://dshm.tmsimg.com/assets/p28608175_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p28608175_b_h10_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S9 E28</episode-num>
     <previously-shown />
     <rating system="Canadian Parental Rating">
@@ -5639,7 +5639,7 @@
     <category lang="en">Series</category>
     <category lang="en">Game show</category>
     <category lang="en">Comedy</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13115825_b_h10_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p13115825_b_h10_ac.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S10 E21</episode-num>
     <premiere lang="en" />
     <rating system="Canadian Parental Rating">
@@ -5654,7 +5654,7 @@
     <desc lang="en">The headlines one needs to know overnight... plus, a roundup of MoneyWatch, health, consumer and up-to-the-minute technology news, the latest weather, and inspiring stories of kindness and hope.</desc>
     <date>2024</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p27490843_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p27490843_b_h8_ab.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261117090000 +0000" stop="20261117093000 +0000">
@@ -5662,7 +5662,7 @@
     <desc lang="en">CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
     <date>2024</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p27236437_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p27236437_b_h8_ab.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261117093000 +0000" stop="20261117100000 +0000">
@@ -5670,7 +5670,7 @@
     <desc lang="en">News coverage to start the day.</desc>
     <date>2010</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p8040946_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p8040946_b_h8_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261117100000 +0000" stop="20261117103000 +0000">
@@ -5678,7 +5678,7 @@
     <desc lang="en">News coverage to start the day.</desc>
     <date>2002</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p986961_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p986961_b_h8_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261117103000 +0000" stop="20261117110000 +0000">
@@ -5686,7 +5686,7 @@
     <desc lang="en">News coverage to start the day.</desc>
     <date>2002</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p986959_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p986959_b_h8_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261117110000 +0000" stop="20261117120000 +0000">
@@ -5694,7 +5694,7 @@
     <desc lang="en">News coverage to start the day.</desc>
     <date>2002</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p986965_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p986965_b_h8_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261117120000 +0000" stop="20261117140000 +0000">
@@ -5709,7 +5709,7 @@
     <category lang="en">Series</category>
     <category lang="en">Talk</category>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p20589677_b_h8_ak.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p20589677_b_h8_ak.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E230</episode-num>
     <premiere lang="en" />
   </programme>
@@ -5725,7 +5725,7 @@
     <category lang="en">Series</category>
     <category lang="en">Reality</category>
     <category lang="en">Law</category>
-    <icon src="http://dshm.tmsimg.com/assets/p10938248_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p10938248_b_h8_ab.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
@@ -5746,7 +5746,7 @@
     <category lang="en">Series</category>
     <category lang="en">Reality</category>
     <category lang="en">Law</category>
-    <icon src="http://dshm.tmsimg.com/assets/p10938248_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p10938248_b_h8_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
@@ -5764,7 +5764,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Game show</category>
-    <icon src="http://dshm.tmsimg.com/assets/p34083524_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p34083524_b_h8_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S18 E42</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -5783,7 +5783,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Game show</category>
-    <icon src="http://dshm.tmsimg.com/assets/p183911_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p183911_b_h8_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S55 E42</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -5802,7 +5802,7 @@
     <date>2025</date>
     <category lang="en">Documentary</category>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p31586882_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p31586882_b_h10_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261117173000 +0000" stop="20261117183000 +0000">
@@ -5816,7 +5816,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Soap</category>
-    <icon src="http://dshm.tmsimg.com/assets/p183904_b_h8_ai.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p183904_b_h8_ai.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S54 E29</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -5848,7 +5848,7 @@
     <category lang="en">Soap</category>
     <category lang="en">Drama</category>
     <category lang="en">Romance</category>
-    <icon src="http://dshm.tmsimg.com/assets/p183907_b_h10_ca.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p183907_b_h10_ca.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S40 E51</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -5888,7 +5888,7 @@
     <category lang="en">Series</category>
     <category lang="en">Soap</category>
     <category lang="en">Drama</category>
-    <icon src="http://dshm.tmsimg.com/assets/p28339808_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p28339808_b_h8_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S2 E212</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -5909,7 +5909,7 @@
     <category lang="en">Series</category>
     <category lang="en">Reality</category>
     <category lang="en">Law</category>
-    <icon src="http://dshm.tmsimg.com/assets/p25158475_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p25158475_b_h8_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S4 E47</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -5930,7 +5930,7 @@
     <category lang="en">Series</category>
     <category lang="en">Reality</category>
     <category lang="en">Law</category>
-    <icon src="http://dshm.tmsimg.com/assets/p25158475_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p25158475_b_h8_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S4 E48</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -5946,7 +5946,7 @@
     <date>2016</date>
     <category lang="en">News</category>
     <category lang="en">Documentary</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13101656_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p13101656_b_h8_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261117220000 +0000" stop="20261117223000 +0000">
@@ -5954,7 +5954,7 @@
     <desc lang="en">Early evening news.</desc>
     <date>2002</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p986962_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p986962_b_h8_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261117223000 +0000" stop="20261117230000 +0000">
@@ -5962,7 +5962,7 @@
     <desc lang="en">Early evening news.</desc>
     <date>2002</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p986960_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p986960_b_h8_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261117230000 +0000" stop="20261117233000 +0000">
@@ -5970,7 +5970,7 @@
     <desc lang="en">Early evening news.</desc>
     <date>2002</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p986966_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p986966_b_h8_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261117233000 +0000" stop="20261118000000 +0000">
@@ -5984,7 +5984,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">E321</episode-num>
     <premiere lang="en" />
   </programme>
@@ -5993,7 +5993,7 @@
     <date>2026</date>
     <category lang="en">Special</category>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p33894031_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p33894031_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261118010000 +0000" stop="20261118020000 +0000">
@@ -6011,7 +6011,7 @@
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
     <category lang="en">Mystery</category>
-    <icon src="http://dshm.tmsimg.com/assets/p33708693_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p33708693_b_h8_ab.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S24 E6</episode-num>
     <premiere lang="en" />
     <rating system="Film &amp; Publication Board">
@@ -6073,7 +6073,7 @@
     <category lang="en">Mystery</category>
     <category lang="en">Adventure</category>
     <category lang="en">Crime drama</category>
-    <icon src="http://dshm.tmsimg.com/assets/p33708702_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p33708702_b_h8_aa.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S1 E6</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -6099,7 +6099,7 @@
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
     <category lang="en">Mystery</category>
-    <icon src="http://dshm.tmsimg.com/assets/p33708713_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p33708713_b_h8_ac.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S3 E6</episode-num>
     <premiere lang="en" />
     <rating system="Kijkwijzer">
@@ -6135,7 +6135,7 @@
     <desc lang="en">Local, national and international news coverage.</desc>
     <date>2002</date>
     <category lang="en">News</category>
-    <icon src="http://dshm.tmsimg.com/assets/p986957_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p986957_b_h8_aa.jpg?w=960&amp;h=540" />
     <premiere lang="en" />
   </programme>
   <programme channel="WYFF-DT3.us_locals1" start="20261118043500 +0000" stop="20261118050500 +0000">
@@ -6150,7 +6150,7 @@
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Comedy</category>
-    <icon src="http://dshm.tmsimg.com/assets/p186631_b_h8_ad.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p186631_b_h8_ad.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S4 E159</episode-num>
     <premiere lang="en" />
     <rating system="USA Parental Rating">
@@ -6172,7 +6172,7 @@
     <date>2025</date>
     <category lang="en">Series</category>
     <category lang="en">Comedy</category>
-    <icon src="http://dshm.tmsimg.com/assets/p186631_b_h8_ad.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p186631_b_h8_ad.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S4 E29</episode-num>
     <previously-shown />
     <rating system="USA Parental Rating">
@@ -6195,7 +6195,7 @@
     <category lang="en">Series</category>
     <category lang="en">Game show</category>
     <category lang="en">Comedy</category>
-    <icon src="http://dshm.tmsimg.com/assets/p13115825_b_h10_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p13115825_b_h10_ac.jpg?w=960&amp;h=540" />
     <episode-num system="onscreen">S10 E22</episode-num>
     <premiere lang="en" />
     <rating system="Canadian Parental Rating">
